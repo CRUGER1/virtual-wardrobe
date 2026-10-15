@@ -1,0 +1,8 @@
+form rule (title only, case-insensitive, first match wins):
+ 1 keychain            : 'keychain' | 'key chain' | 'keyring' | 'key ring'
+ 2 cheese_with_mice_set: 'cheese' AND whole word mouse|mice|rat|rats
+ 3 slow_rising         : 'slow rising' | 'slow rise' | 'slow-rising'
+ 4 stress_ball         : 'stress ball' | 'squeeze ball' | 'squishy ball'
+ 5 single_cheese       : 'cheese'
+ 6 other               : everything else
+ dims NOT used in this pass: classification is title-only. Rules 1, 3 and 4 do not require 'cheese', so non-cheese items from the 'squishy toys' control seed can land in keychain/slow_rising/stress_ball.

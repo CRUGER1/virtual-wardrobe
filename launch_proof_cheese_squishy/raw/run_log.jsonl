@@ -1,0 +1,41 @@
+{"step": "1_catalog", "msg": "seed 'cheese squishy': 100 ASINs returned (numberOfResults=5013)"}
+{"step": "1_catalog", "msg": "seed 'cheese squishies': 100 ASINs returned (numberOfResults=4561)"}
+{"step": "1_catalog", "msg": "seed 'squishy cheese': 100 ASINs returned (numberOfResults=4742)"}
+{"step": "1_catalog", "msg": "seed 'mouse and cheese squishy': 100 ASINs returned (numberOfResults=327)"}
+{"step": "1_catalog", "msg": "seed 'cheese stress ball': 100 ASINs returned (numberOfResults=2271)"}
+{"step": "1_catalog", "msg": "seed 'cheese fidget toy': 100 ASINs returned (numberOfResults=2478)"}
+{"step": "1_catalog", "msg": "seed 'squishy toys': 100 ASINs returned (numberOfResults=57010)"}
+{"step": "1_catalog", "msg": "unique ASINs: 328"}
+{"step": "2_pricing", "msg": "POST /batches/products/pricing/v0/itemOffers attempt 1 HTTP 429: {\n  \"errors\": [\n    {\n      \"code\": \"QuotaExceeded\",\n      \"message\": \"You exceeded your quota for the requested resource.\",\n      \"details\": \"\"\n    }\n  ]\n}"}
+{"step": "2_pricing", "msg": "POST /batches/products/pricing/v0/itemOffers attempt 1 HTTP 429: {\n  \"errors\": [\n    {\n      \"code\": \"QuotaExceeded\",\n      \"message\": \"You exceeded your quota for the requested resource.\",\n      \"details\": \"\"\n    }\n  ]\n}"}
+{"step": "2_pricing", "msg": "rows 328; status counts {'Success': 321, 'NoBuyableOffers': 7}; buybox present 316; lowest present 320"}
+{"step": "6_ads", "msg": "GET /catalog/2022-04-01/items/B0DWFWGPD3 attempt 1 HTTP 404: {\n  \"errors\": [\n    {\n      \"code\": \"NOT_FOUND\",\n      \"message\": \"Requested item, B0DWFWGPD3, not found in marketplace(s) ATVPDKIKX0DER.\"\n    }\n  ]\n}"}
+{"step": "6_ads", "msg": "GET /catalog/2022-04-01/items/B0DWFWGPD3 attempt 2 HTTP 404: {\n  \"errors\": [\n    {\n      \"code\": \"NOT_FOUND\",\n      \"message\": \"Requested item, B0DWFWGPD3, not found in marketplace(s) ATVPDKIKX0DER.\"\n    }\n  ]\n}"}
+{"step": "6_ads", "msg": "GET /catalog/2022-04-01/items/B008C7NEEM attempt 1 HTTP 404: {\n  \"errors\": [\n    {\n      \"code\": \"NOT_FOUND\",\n      \"message\": \"Requested item, B008C7NEEM, not found in marketplace(s) ATVPDKIKX0DER.\"\n    }\n  ]\n}"}
+{"step": "6_ads", "msg": "GET /catalog/2022-04-01/items/B008C7NEEM attempt 2 HTTP 404: {\n  \"errors\": [\n    {\n      \"code\": \"NOT_FOUND\",\n      \"message\": \"Requested item, B008C7NEEM, not found in marketplace(s) ATVPDKIKX0DER.\"\n    }\n  ]\n}"}
+{"step": "3_fees", "msg": "comparators (rule: title contains 'cheese' AND 'squish', lowest browse-node sales rank): ['B0GTZ43D24', 'B0H7PWTPTV', 'B0GXHVJYJH'] ranks ['16', '27', '34'] node ['Squeeze Toys', 'Squeeze Toys', 'Executive Desk Toys']"}
+{"step": "3_fees", "msg": "B0HFNJ58GY: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0H1CRW324: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0H7W18D4J: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HCTK4Q5M: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0H1Y951BK: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0H6F64Y7L: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0G36TDT1W: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0G3GF7FK2: no current price, fee not requested"}
+{"step": "3_fees", "msg": "POST /products/fees/v0/feesEstimate attempt 1 HTTP 429: {\n  \"errors\": [\n    {\n      \"code\": \"QuotaExceeded\",\n      \"message\": \"You exceeded your quota for the requested resource.\",\n      \"details\": \"\"\n    }\n  ]\n}"}
+{"step": "3_fees", "msg": "rows 332; status {'Success': 329, 'ClientError': 3}; size_tier returned by API: 0"}
+{"step": "3_fees", "msg": "retry B0H6PSQTGN failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0H6PVFKZR failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0GQSXDFFQ failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "6_ads", "msg": "bid recommendations: 21 rows, themes ['CONVERSION_OPPORTUNITIES']; impactMetrics keys: [[]]"}
+{"step": "5_aba", "msg": "2026-09: reportId 188289020741"}
+{"step": "5_aba", "msg": "2025-09: reportId 188290020741"}
+{"step": "7_master", "msg": "master rows 328; forms {'single_cheese': 89, 'stress_ball': 56, 'slow_rising': 99, 'other': 61, 'cheese_with_mice_set': 20, 'keychain': 3}; near_zero_sales empty for 328 (no Keepa data)"}
+{"step": "7_master", "msg": "master rows 328; forms {'single_cheese': 89, 'stress_ball': 56, 'slow_rising': 99, 'other': 61, 'cheese_with_mice_set': 20, 'keychain': 3}; near_zero_sales empty for 328 (no Keepa data)"}
+{"step": "6_ads", "msg": "keyword recommendations v5 HTTP 429: <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>openresty</center>\r\n</"}
+{"step": "6_ads", "msg": "keyword recommendations v4 OK"}
+{"step": "6_ads", "msg": "ads_bids.csv 28 rows (21 themebased + 7 v4 seed rows, broad only, impression share/rank null for all seeds); ads_keyword_recs.csv 300 rows recommended for ASIN B0GQ3BTLNL (body trimmer) - not cheese-related"}
+{"step": "5_aba", "msg": "2026-09: status DONE"}
+{"step": "5_aba", "msg": "2026-09: scanned 3521339 rows, kept 2906 terms"}
+{"step": "5_aba", "msg": "2025-09: status DONE"}
+{"step": "5_aba", "msg": "2025-09: scanned 3371105 rows, kept 560 terms"}
