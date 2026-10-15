@@ -1,0 +1,42 @@
+{"step": "1_catalog", "msg": "seed 'coconut oil squishy': 100 ASINs returned (numberOfResults=1961)"}
+{"step": "1_catalog", "msg": "seed 'coconut oil squishies': 100 ASINs returned (numberOfResults=1808)"}
+{"step": "1_catalog", "msg": "seed 'squishy coconut oil': 100 ASINs returned (numberOfResults=1772)"}
+{"step": "1_catalog", "msg": "seed 'coconut squishy': 100 ASINs returned (numberOfResults=1981)"}
+{"step": "1_catalog", "msg": "seed 'coconut oil butter squishy': 100 ASINs returned (numberOfResults=1247)"}
+{"step": "1_catalog", "msg": "seed 'coconut oil stress ball': 100 ASINs returned (numberOfResults=1331)"}
+{"step": "1_catalog", "msg": "seed 'squishy toys': 100 ASINs returned (numberOfResults=57122)"}
+{"step": "1_catalog", "msg": "unique ASINs: 323"}
+{"step": "4_keepa", "msg": "start", "asins": 323, "reused_from_cheese_pull": 110, "to_fetch": 213, "tokens_left": 136, "refill_rate_per_min": 5}
+{"step": "4_keepa", "msg": "batch ok", "batch": 0, "asins": 100, "tokens_consumed": 100, "tokens_left": 36}
+{"step": "4_keepa", "msg": "waiting for tokens", "tokens_left": 36, "need": 100, "wait_s": 773}
+{"step": "2_pricing", "msg": "POST /batches/products/pricing/v0/itemOffers attempt 1 HTTP 429", "body": "{\n  \"errors\": [\n    {\n      \"code\": \"QuotaExceeded\",\n      \"message\": \"You exceeded your quota for the requested resource.\",\n      \"details\": \"\"\n    }\n  ]\n}"}
+{"step": "2_pricing", "msg": "rows 323; status counts {'Success': 308, 'NoBuyableOffers': 15}; buybox present 305; lowest present 308"}
+{"step": "3_fees", "msg": "B0HCDML8DK: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HG8R6G1W: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HGQML5RH: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HKVHM74F: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HJWB3L2T: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HJW6YFZH: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0H7HX8XT1: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0H7VHVH66: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HFJDXML8: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HHHNKVPQ: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HGXWT7SP: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HDDBGRJW: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0HHHPSPW1: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0H244BB1X: no current price, fee not requested"}
+{"step": "3_fees", "msg": "B0G36TDT1W: no current price, fee not requested"}
+{"step": "3_fees", "msg": "comparators (rule: title contains 'coconut' AND 'squish', lowest browse-node sales rank): ['B0H7PRJVD9', 'B0GVJDX674', 'B0HG5127RZ'] ranks ['3', '12', '12'] node ['Executive Desk Toys', 'Squeeze Toys', 'Executive Desk Toys']"}
+{"step": "3_fees", "msg": "POST /products/fees/v0/feesEstimate attempt 1 HTTP 429", "body": "{\n  \"errors\": [\n    {\n      \"code\": \"QuotaExceeded\",\n      \"message\": \"You exceeded your quota for the requested resource.\",\n      \"details\": \"\"\n    }\n  ]\n}"}
+{"step": "3_fees", "msg": "retry B0HHZR6SWK failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0HJWB46J6 failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0HC66B96N failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0HHZJ32BB failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0H9PVXNND failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0HF719NPW failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0HFWXMWP7 failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0HKCT9YM2 failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0H9KBDTZQ failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "retry B0HFWZDVLK failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
+{"step": "3_fees", "msg": "rows 320; status {'Success': 310, 'ClientError': 10}; size_tier returned by API: 0"}
+{"step": "6_ads", "msg": "ads_bids.csv 21 rows"}
