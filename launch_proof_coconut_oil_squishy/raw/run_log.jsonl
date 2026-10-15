@@ -40,3 +40,8 @@
 {"step": "3_fees", "msg": "retry B0HFWZDVLK failed: 200 {\"Type\": \"Sender\", \"Code\": \"InvalidParameterValue\", \"Message\": \"There is an client-side error. Please verify your inputs.\", \"Detail\": []}"}
 {"step": "3_fees", "msg": "rows 320; status {'Success': 310, 'ClientError': 10}; size_tier returned by API: 0"}
 {"step": "6_ads", "msg": "ads_bids.csv 21 rows"}
+{"step": "4_keepa", "msg": "batch ok", "batch": 1, "asins": 100, "tokens_consumed": 100, "tokens_left": 1}
+{"step": "4_keepa", "msg": "waiting for tokens", "tokens_left": 1, "need": 13, "wait_s": 149}
+{"step": "4_keepa", "msg": "batch ok", "batch": 2, "asins": 13, "tokens_consumed": 13, "tokens_left": 3}
+{"step": "4_keepa", "msg": "done", "tokens_consumed": 213}
+{"step": "7_master", "msg": "master rows 323; forms {'multipack': 152, 'ball': 65, 'butter_shape': 47, 'cheese_shape': 18, 'fruit_food_shape': 23, 'other': 18}; near_zero_sales true 61"}

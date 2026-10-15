@@ -1,0 +1,10 @@
+form rule (title only, case-insensitive, first match wins):
+ 1 keychain        : 'keychain' | 'key chain' | 'keyring' | 'key ring'
+ 2 multipack       : '<n> pack' | '<n>pack' | '<n> pcs' | '<n>pcs' | '<n> pieces' | '<n> count' | '<n>ct' with n >= 2, or 'set of <n>' n >= 2
+ 3 cheese_shape    : 'cheese'
+ 4 butter_shape    : 'butter'
+ 5 fruit_food_shape: apple|strawberry|peach|banana|grape|cherry|lemon|orange|mango|watermelon|avocado|dumpling|bread|toast|cake|donut|cookie|mochi|peanut|potato|egg
+ 6 ball            : 'ball'
+ 7 other           : everything else
+ coconut_oil column (separate axis): title contains 'coconut'.
+ dims NOT used: classification is title-only.

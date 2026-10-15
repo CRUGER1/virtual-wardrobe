@@ -1,0 +1,188 @@
+{
+ "rows": 323,
+ "keepa_products": 323,
+ "forms": {
+  "multipack": 152,
+  "ball": 65,
+  "butter_shape": 47,
+  "cheese_shape": 18,
+  "fruit_food_shape": 23,
+  "other": 18
+ },
+ "forms_coconut": {
+  "multipack": 93,
+  "ball": 60,
+  "butter_shape": 39,
+  "cheese_shape": 17,
+  "fruit_food_shape": 13
+ },
+ "coconut_rows": 222,
+ "near_zero_true": 61,
+ "near_zero_coconut": 58,
+ "near_zero_by_form": {
+  "ball": 11,
+  "multipack": 23,
+  "cheese_shape": 1,
+  "fruit_food_shape": 3,
+  "butter_shape": 23
+ },
+ "first_seen_24m": 305,
+ "listed_since_24m": 303,
+ "listed_since_empty": 1,
+ "monthly_sold_empty": 61,
+ "rank_empty": 18,
+ "coupon_rows": 130,
+ "deal_rows": 12,
+ "history_rows": 17843,
+ "ties_at_10th": 17,
+ "top10": [
+  [
+   "B0DG2VRFV7",
+   50000,
+   5,
+   "Mantyplay",
+   "multipack",
+   "false",
+   "9.99",
+   "30 Pack Squishy Toys, Kawaii Squishies Party Favors for Kids 4-8 8-12 "
+  ],
+  [
+   "B0GPY41JGK",
+   30000,
+   14,
+   "Schylling",
+   "other",
+   "false",
+   "",
+   "Schylling NeeDoh Squishmas Advent Calendar (Pack of 1)"
+  ],
+  [
+   "B07HDX46HS",
+   30000,
+   19,
+   "Crayola",
+   "multipack",
+   "false",
+   "11.99",
+   "Crayola Globbles Fidget Toy, 6ct, Sticky Stress Ball, Kid Stocking Stu"
+  ],
+  [
+   "B0GR8JGX95",
+   20000,
+   63,
+   "Siwarm",
+   "multipack",
+   "false",
+   "14.99",
+   "Siwarm 30 Pack Mini Cube Squishy Fidget Toys for Kids and Adults"
+  ],
+  [
+   "B0BVNSDG2W",
+   20000,
+   82,
+   "nobasco",
+   "multipack",
+   "false",
+   "9.99",
+   "nobasco Squishies, 32 Pack Mochi Squishy Toys - Kawaii Cat Squishys Sl"
+  ],
+  [
+   "B0GVJDX674",
+   20000,
+   83,
+   "Glyrnur",
+   "ball",
+   "true",
+   "9.99",
+   "Coconut Oil Squishy, Coconut Oil Slow Rising Squeeze Stress Ball Clear"
+  ],
+  [
+   "B0G36VXNGX",
+   10000,
+   1,
+   "Horizon Group USA",
+   "other",
+   "false",
+   "8.7",
+   "Horizon Group USA Slimygloop Gelli Gels, Pink Squishmallows"
+  ],
+  [
+   "B0G36Z353F",
+   10000,
+   1,
+   "Horizon Group USA",
+   "other",
+   "false",
+   "8.76",
+   "Horizon Group USA Slimygloop Gelli Gels, Blue Squishmallows"
+  ],
+  [
+   "B0DJFZY6JZ",
+   10000,
+   4,
+   "Sunny Days Entertainment",
+   "fruit_food_shape",
+   "false",
+   "12.99",
+   "Sunny Days Entertainment Strawberry Squishy - Jumbo Stress Ball - Ages"
+  ],
+  [
+   "B0H1DJM399",
+   10000,
+   29,
+   "PlayMonster",
+   "multipack",
+   "false",
+   "24.99",
+   "Squeeze Please 3 Pack Scented Marshmallow Stress Relief Fidget Squishy"
+  ]
+ ],
+ "top5_coconut": [
+  [
+   "B0GVJDX674",
+   20000,
+   83,
+   "Glyrnur",
+   "ball",
+   "9.99",
+   "Coconut Oil Squishy, Coconut Oil Slow Rising Squeeze Stress Ball Clear"
+  ],
+  [
+   "B0GTZ43D24",
+   10000,
+   94,
+   "Kaimaizhe",
+   "cheese_shape",
+   "9.99",
+   "Cheese Squishy Toy – Coconut Oil Squishy Scentless Anti-Pop No Rebound"
+  ],
+  [
+   "B0H7PRJVD9",
+   10000,
+   214,
+   "LAVKUHY",
+   "cheese_shape",
+   "9.99",
+   "Coconut Oil Squishy, Cheese Squishy Non-Rebound"
+  ],
+  [
+   "B0HG984XF7",
+   10000,
+   243,
+   "Xltznbplas",
+   "butter_shape",
+   "9.99",
+   "Coconut Oil Butter Squishy Toy, Butter Stick Stress Relief Squeeze Toy"
+  ],
+  [
+   "B0H2DPTGH7",
+   9000,
+   518,
+   "Kaimaizhe",
+   "cheese_shape",
+   "8.99",
+   "Cheese Squishy Toy – Coconut Oil Squishy Dough Texture Stress Relief F"
+  ]
+ ],
+ "overlap_with_cheese": 110
+}
