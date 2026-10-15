@@ -39,3 +39,12 @@
 {"step": "5_aba", "msg": "2026-09: scanned 3521339 rows, kept 2906 terms"}
 {"step": "5_aba", "msg": "2025-09: status DONE"}
 {"step": "5_aba", "msg": "2025-09: scanned 3371105 rows, kept 560 terms"}
+{"step": "4_keepa", "msg": "start", "asins": 328, "tokens_left": 299, "refill_rate_per_min": 5}
+{"step": "4_keepa", "msg": "batch ok", "batch": 0, "asins": 100, "products": 100, "tokens_consumed": 100, "tokens_left": 199}
+{"step": "4_keepa", "msg": "batch ok", "batch": 1, "asins": 100, "products": 100, "tokens_consumed": 100, "tokens_left": 99}
+{"step": "4_keepa", "msg": "waiting for tokens", "tokens_left": 99, "need": 100, "wait_s": 17}
+{"step": "4_keepa", "msg": "waiting for tokens", "tokens_left": 99, "need": 100, "wait_s": 17}
+{"step": "4_keepa", "msg": "batch ok", "batch": 2, "asins": 100, "products": 100, "tokens_consumed": 100, "tokens_left": 4}
+{"step": "4_keepa", "msg": "waiting for tokens", "tokens_left": 4, "need": 28, "wait_s": 293}
+{"step": "4_keepa", "msg": "batch ok", "batch": 3, "asins": 28, "products": 28, "tokens_consumed": 28, "tokens_left": 1}
+{"step": "4_keepa", "msg": "done", "products": 328, "missing": [], "tokens_consumed": 328}
