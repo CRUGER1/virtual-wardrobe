@@ -1,0 +1,792 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Coconut oil squishy: глибокий розбір</title>
+<style>
+:root{
+  --navy:#0A2333; --dark:#1D1F1E; --offwhite:#F3F3F1; --cream:#FAF9F5;
+  --charcoal:#212121; --white:#FFFFFF;
+  --green:#13835B; --orange:#EA6C34; --peach:#F9C8A5; --lightpeach:#FDE5CF;
+  --blue:#C2D9E6; --gray:#666666; --line:#E6E6E6;
+  --sans:"BROmega","BR Omega",-apple-system,system-ui,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+  --shadow:0 2px 8px rgba(10,35,51,.08);
+  --lift:0 12px 34px rgba(10,35,51,.12);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:84px}
+body{margin:0;background:var(--white);color:var(--charcoal);font-family:var(--sans);
+  font-size:16px;line-height:1.62;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1120px;margin:0 auto;padding:0 32px}
+h1,h2,h3,h4{font-weight:700;line-height:1.14;color:var(--navy);margin:0}
+h1{font-size:clamp(2.2rem,5.2vw,3.2rem);letter-spacing:-.03em}
+h2{font-size:clamp(1.6rem,3.2vw,2.1rem);letter-spacing:-.02em;margin-bottom:.35em}
+h3{font-size:1.32rem;letter-spacing:-.01em}
+h4{font-size:1.08rem}
+p{margin:0 0 1em;max-width:68ch}
+ul{max-width:68ch;padding-left:20px}
+li{margin-bottom:.5em}
+a{color:var(--green)}
+.eyebrow{font-size:.73rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gray);
+  font-weight:700;margin:0 0 .85em}
+.lede{font-size:1.14rem;color:#3d4a52;max-width:62ch}
+.sm{font-size:.9rem;color:var(--gray)}
+.n{font-variant-numeric:tabular-nums}
+section{padding:84px 0}
+.alt{background:var(--offwhite)}
+.cream{background:var(--cream)}
+
+nav{position:sticky;top:0;z-index:50;background:rgba(10,35,51,.97);backdrop-filter:blur(10px);
+  height:60px;display:flex;align-items:center}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;width:100%}
+.mark{color:#fff;font-weight:700;letter-spacing:.12em;font-size:.76rem;text-transform:uppercase}
+.mark span{color:var(--peach)}
+.navlinks{display:flex;gap:24px}
+.navlinks a{color:rgba(255,255,255,.6);text-decoration:none;font-size:.82rem;font-weight:500;
+  transition:color .2s ease;white-space:nowrap}
+.navlinks a:hover,.navlinks a.on{color:#fff}
+.navverdict{background:var(--green);color:#fff;font-size:.7rem;font-weight:700;letter-spacing:.1em;
+  padding:6px 12px;border-radius:4px}
+@media(max-width:940px){.navlinks{display:none}}
+
+/* hero: the verdict is the hero */
+header{background:var(--navy);color:#fff;padding:70px 0 110px;position:relative;overflow:hidden}
+header:after{content:"";position:absolute;right:-180px;top:-140px;width:560px;height:560px;
+  border-radius:50%;background:radial-gradient(circle,rgba(249,200,165,.15),transparent 66%)}
+.hero{position:relative;z-index:2;display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:start}
+.hero h1{color:#fff}
+.vbadge{display:inline-block;background:var(--green);color:#fff;font-size:.78rem;font-weight:700;
+  letter-spacing:.14em;text-transform:uppercase;padding:9px 16px;border-radius:4px;margin-bottom:22px}
+.vhead{font-size:clamp(2.6rem,7vw,4.4rem);font-weight:700;letter-spacing:-.04em;line-height:1;
+  color:#fff;margin:0 0 18px}
+.vhead em{font-style:normal;color:var(--peach)}
+.vsub{font-size:1.16rem;color:rgba(255,255,255,.78);max-width:52ch;margin-bottom:0}
+.decide{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.13);border-radius:12px;
+  padding:26px 28px}
+.decide h4{color:#fff;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--peach);margin-bottom:16px}
+.decide ol{margin:0;padding-left:0;list-style:none;counter-reset:d}
+.decide li{counter-increment:d;position:relative;padding-left:34px;margin-bottom:14px;
+  font-size:.95rem;color:rgba(255,255,255,.86);line-height:1.5}
+.decide li:last-child{margin-bottom:0}
+.decide li:before{content:counter(d);position:absolute;left:0;top:1px;width:22px;height:22px;
+  border-radius:50%;background:var(--peach);color:var(--navy);font-size:.74rem;font-weight:700;
+  display:grid;place-items:center}
+@media(max-width:900px){.hero{grid-template-columns:1fr;gap:34px}}
+
+.strip{background:var(--white);border-radius:12px;box-shadow:var(--lift);border:1px solid var(--line);
+  display:grid;grid-template-columns:repeat(4,1fr);overflow:hidden;margin-top:-58px;position:relative;z-index:5}
+.strip .m{padding:24px 22px;border-right:1px solid var(--line)}
+.strip .m:last-child{border-right:none}
+.strip .v{font-size:2rem;font-weight:700;color:var(--navy);letter-spacing:-.02em;line-height:1.1}
+.strip .v.g{color:var(--green)} .strip .v.o{color:var(--orange)}
+.strip .l{font-size:.82rem;color:var(--gray);margin-top:7px;line-height:1.45}
+@media(max-width:820px){.strip{grid-template-columns:1fr 1fr}.strip .m:nth-child(2n){border-right:none}}
+@media(max-width:520px){.strip{grid-template-columns:1fr}.strip .m{border-right:none;border-bottom:1px solid var(--line)}}
+
+.card{background:var(--white);border:1px solid var(--line);border-radius:12px;padding:28px;box-shadow:var(--shadow)}
+.card.dark{background:var(--dark);border:none;color:rgba(255,255,255,.86)}
+.card.dark h3,.card.dark h4{color:#fff}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+.grid2.wide{grid-template-columns:1.25fr .75fr}
+@media(max-width:900px){.grid2,.grid2.wide{grid-template-columns:1fr}}
+.head{margin-bottom:36px}
+
+/* do / dont */
+.dd{display:grid;grid-template-columns:1fr 1fr;gap:0;border:1px solid var(--line);border-radius:12px;
+  overflow:hidden;box-shadow:var(--shadow)}
+.dd>div{padding:30px 32px}
+.dd .do{background:#fff;border-right:1px solid var(--line)}
+.dd .dont{background:var(--offwhite)}
+.dd h4{font-size:.76rem;letter-spacing:.14em;text-transform:uppercase;margin-bottom:18px}
+.dd .do h4{color:var(--green)} .dd .dont h4{color:var(--orange)}
+.dd ul{margin:0;padding-left:0;list-style:none;max-width:none}
+.dd li{padding-left:26px;position:relative;font-size:.95rem;line-height:1.5;margin-bottom:14px}
+.dd li:last-child{margin-bottom:0}
+.dd li:before{position:absolute;left:0;top:0;font-weight:700}
+.dd .do li:before{content:"+";color:var(--green)}
+.dd .dont li:before{content:"x";color:var(--orange)}
+@media(max-width:760px){.dd{grid-template-columns:1fr}.dd .do{border-right:none;border-bottom:1px solid var(--line)}}
+
+/* accordion, used sparingly now */
+.acc{border:1px solid var(--line);border-radius:12px;background:#fff;margin-bottom:10px;overflow:hidden}
+.acc-h{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:18px 24px;
+  cursor:pointer;background:none;border:none;width:100%;text-align:left;font-family:inherit}
+.acc-h:hover{background:var(--cream)}
+.acc-t strong{font-size:1rem;color:var(--navy);font-weight:700}
+.acc-t em{font-style:normal;font-size:.86rem;color:var(--gray);margin-left:12px}
+.chev{flex:0 0 24px;width:24px;height:24px;border-radius:50%;background:var(--offwhite);
+  display:grid;place-items:center;transition:transform .3s cubic-bezier(.4,0,.2,1),background .2s}
+.acc.open .chev{transform:rotate(180deg);background:var(--green)}
+.acc.open .chev svg{stroke:#fff}
+.chev svg{stroke:var(--navy);stroke-width:2.2;fill:none;width:12px;height:12px}
+.acc-b{display:grid;grid-template-rows:0fr;transition:grid-template-rows .36s cubic-bezier(.4,0,.2,1)}
+.acc.open .acc-b{grid-template-rows:1fr}
+.acc-b>div{overflow:hidden}
+.acc-i{padding:20px 24px 26px;border-top:1px solid var(--line)}
+
+.badge{display:inline-block;font-size:.69rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
+  padding:4px 9px;border-radius:4px;background:var(--offwhite);color:var(--gray)}
+.badge.g{background:#e2f0eb;color:var(--green)}
+.badge.o{background:var(--lightpeach);color:#b8501f}
+.badge.n{background:var(--navy);color:#fff}
+
+.tbl{width:100%;border-collapse:collapse;font-size:.9rem;margin:16px 0}
+.tbl th{text-align:left;font-size:.69rem;letter-spacing:.08em;text-transform:uppercase;color:var(--gray);
+  padding:0 14px 10px 0;font-weight:700}
+.tbl td{padding:11px 14px 11px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.tbl tr:last-child td{border-bottom:none}
+.tbl td.num,.tbl th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;padding-right:0}
+.tbl tr.hi td{background:var(--lightpeach)}
+.tbl tr.dim td{color:var(--gray)}
+
+.bars{margin-top:22px}
+.brow{display:grid;grid-template-columns:52px 1fr 66px;align-items:center;gap:13px;margin-bottom:7px}
+.brow span:first-child{font-size:.8rem;color:var(--gray);font-weight:500}
+.bfill{display:block;height:19px;border-radius:4px;background:var(--navy);
+  transition:width 1s cubic-bezier(.2,.7,.3,1)}
+.brow.peak .bfill{background:var(--orange)}
+.brow.warm .bfill{background:var(--green)}
+.brow span:last-child{font-size:.8rem;font-variant-numeric:tabular-nums;color:var(--navy);font-weight:700}
+
+.chartbox{background:#fff;border:1px solid var(--line);border-radius:12px;padding:26px;box-shadow:var(--shadow)}
+.spark{width:100%;height:auto;display:block;overflow:visible}
+.spark path.series{fill:none;stroke:var(--navy);stroke-width:1.9;stroke-linejoin:round;
+  stroke-dasharray:9000;stroke-dashoffset:9000}
+.spark.go path.series{transition:stroke-dashoffset 2.3s cubic-bezier(.4,0,.2,1);stroke-dashoffset:0}
+.spark .gridline{stroke:var(--line);stroke-width:1}
+.spark .tick{font-size:11px;fill:var(--gray)}
+.spark .dot{fill:var(--orange);opacity:0}
+.spark.go .dot{opacity:1;transition:opacity .5s ease 1.8s}
+.spark .flag{font-size:11.5px;font-weight:700;opacity:0;fill:#EA6C34}
+.spark.go .flag{opacity:1;transition:opacity .5s ease 1.9s}
+
+/* price cliff */
+.cliff{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border:1px solid var(--line);
+  border-radius:12px;overflow:hidden;box-shadow:var(--shadow);margin-top:26px}
+.cliff>div{padding:24px;border-right:1px solid var(--line);text-align:center}
+.cliff>div:last-child{border-right:none}
+.cliff .p{font-size:1.7rem;font-weight:700;color:var(--navy);letter-spacing:-.02em}
+.cliff .band{font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;font-weight:700;margin:8px 0 16px}
+.cliff .lp .band{color:var(--green)} .cliff .st .band{color:var(--orange)}
+.cliff .m{font-size:1.35rem;font-weight:700;font-variant-numeric:tabular-nums}
+.cliff .lp .m{color:var(--green)} .cliff .st .m{color:var(--charcoal)}
+.cliff .cap{font-size:.8rem;color:var(--gray);margin-top:6px;line-height:1.4}
+@media(max-width:700px){.cliff{grid-template-columns:1fr}.cliff>div{border-right:none;border-bottom:1px solid var(--line)}}
+
+/* dial */
+.dial{background:var(--navy);border-radius:12px;padding:36px;color:#fff}
+.dial h3{color:#fff}
+.dial .sub{color:rgba(255,255,255,.66);font-size:.94rem;max-width:60ch}
+input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:5px;border-radius:3px;
+  background:rgba(255,255,255,.22);outline:none;margin:30px 0 0}
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:26px;height:26px;border-radius:50%;
+  background:var(--peach);cursor:pointer;border:4px solid var(--navy);box-shadow:0 0 0 2px var(--peach);
+  transition:transform .15s ease}
+input[type=range]::-webkit-slider-thumb:hover{transform:scale(1.12)}
+input[type=range]::-moz-range-thumb{width:22px;height:22px;border-radius:50%;background:var(--peach);
+  cursor:pointer;border:3px solid var(--navy)}
+.dialout{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:32px}
+.dialout .o{background:rgba(255,255,255,.06);border-radius:12px;padding:20px;border:1px solid rgba(255,255,255,.1)}
+.dialout .ov{font-size:1.85rem;font-weight:700;letter-spacing:-.02em;line-height:1.1}
+.dialout .ol{font-size:.79rem;color:rgba(255,255,255,.6);margin-top:7px;line-height:1.4}
+.verdictline{margin-top:24px;padding:18px 22px;border-radius:12px;background:rgba(255,255,255,.07);
+  border-left:3px solid var(--peach);font-size:.97rem}
+@media(max-width:760px){.dialout{grid-template-columns:1fr}.dial{padding:26px}}
+
+.play{border-radius:12px;overflow:hidden;border:1px solid var(--line);background:#fff;box-shadow:var(--shadow);
+  transition:transform .3s cubic-bezier(.2,.7,.3,1),box-shadow .3s ease}
+.play:hover{transform:translateY(-4px);box-shadow:var(--lift)}
+.play .top{padding:24px 26px;border-bottom:1px solid var(--line)}
+.play.rec .top{background:var(--navy);border-bottom:none}
+.play.rec .top h3{color:#fff}
+.play.rec .top p{color:rgba(255,255,255,.72)}
+.play .body{padding:22px 26px 26px}
+.spec{display:grid;grid-template-columns:84px 1fr;gap:6px 16px;font-size:.9rem;margin:0}
+.spec dt{color:var(--gray);font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;font-weight:700;padding-top:3px}
+.spec dd{margin:0}
+
+.note{border-left:3px solid var(--orange);background:var(--lightpeach);border-radius:0 12px 12px 0;
+  padding:20px 24px;margin:26px 0}
+.note.g{border-left-color:var(--green);background:#e6f2ee}
+.note.n{border-left-color:var(--navy);background:var(--offwhite)}
+.note p:last-child{margin-bottom:0}
+
+pre.mail{background:var(--offwhite);border:1px solid var(--line);border-radius:12px;padding:24px;
+  font-family:inherit;font-size:.88rem;line-height:1.62;white-space:pre-wrap;margin:0;color:var(--charcoal)}
+.copybar{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:12px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:8px;border-radius:8px;padding:11px 20px;font-weight:700;
+  font-size:.88rem;border:1px solid transparent;cursor:pointer;font-family:inherit;
+  transition:transform .18s ease,background .18s ease;text-decoration:none}
+.btn-p{background:var(--green);color:#fff}
+.btn-p:hover{transform:translateY(-2px)}
+.btn-o{background:transparent;color:var(--navy);border-color:var(--line)}
+.btn-o:hover{background:var(--offwhite)}
+
+.rv{opacity:0;transform:translateY(20px);transition:opacity .68s cubic-bezier(.2,.7,.3,1),transform .68s cubic-bezier(.2,.7,.3,1)}
+.rv.in{opacity:1;transform:none}
+
+footer{background:var(--navy);color:rgba(255,255,255,.62);padding:52px 0;font-size:.85rem}
+footer strong{color:#fff}
+
+@media(prefers-reduced-motion:reduce){
+  *{transition:none!important;animation:none!important}
+  .rv{opacity:1;transform:none}
+  .spark path.series{stroke-dashoffset:0}
+  .spark .dot,.spark .flag{opacity:1}
+  html{scroll-behavior:auto}
+}
+@media print{
+  nav{display:none}section{padding:26px 0;break-inside:avoid}
+  .acc-b{grid-template-rows:1fr!important}.rv{opacity:1;transform:none}.chev{display:none}
+}
+
+/* ---- verdict variants. The badge colour carries the verdict, so all four exist. ---- */
+.vbadge.go,.navverdict.go{background:var(--green)}
+.vbadge.narrow,.navverdict.narrow{background:var(--green)}
+.vbadge.marginal,.navverdict.marginal{background:#8a6d1f}
+.vbadge.no,.navverdict.no{background:var(--orange)}
+.strip .v.o{color:var(--orange)}
+
+/* ---- a section whose required input never arrived. Never delete the section. ---- */
+.missing{border:1px dashed var(--line);border-radius:12px;padding:22px 24px;background:var(--cream);
+  color:var(--gray);font-size:.93rem;margin:20px 0}
+.missing strong{color:var(--navy)}
+
+/* ---- print: an accordion body must not stay clipped ---- */
+@media print{.acc-b>div{overflow:visible}pre.mail{white-space:pre-wrap}}
+
+/* ---- appended: three-column row for the three ways to play ---- */
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+@media(max-width:900px){.grid3{grid-template-columns:1fr}}
+
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <div class="mark">Launch Proof <span>coconut oil squishy, США</span></div>
+    <div class="navlinks">
+      <a href="#verdict">Вердикт</a>
+      <a href="#money">Гроші</a>
+      <a href="#cash">Каса</a>
+      <a href="#why">Ринок</a>
+      <a href="#plays">Варіанти</a>
+      <a href="#brief">Фабрика</a>
+      <a href="#risks">Ризики</a>
+    </div>
+    <div class="navverdict marginal">MARGINAL</div>
+  </div>
+</nav>
+
+<header id="verdict">
+  <div class="wrap hero">
+    <div>
+      <div class="eyebrow">Coconut oil squishy, кулька 6 см, США · 16 жовтня 2026</div>
+      <div class="vbadge marginal">MARGINAL</div>
+      <h1 class="vhead">Попит є. <em>Запас тонкий.</em></h1>
+      <p class="vsub">Пошук ще росте (+19% за 4 тижні, 574 тис. на місяць), а лідер має 3.0 зірки. Але за $9.99 з кульки лишається лише $2.78 до реклами, і продаж через рекламу при 15 покупках зі 100 кліків втрачає $2.22. Тест на 1 000 шт найімовірніше коштує вам близько $1.4k. Прибуток з'являється, тільки якщо після Різдва попит тримається і понад половину продажів іде без реклами.</p>
+    </div>
+    <div class="decide">
+      <h4>Що робити</h4>
+      <ol>
+        <li><strong>Замовити 1 000 кульок 6 см у коробочці, літаком</strong>, щоб бути на складі Amazon до 1 грудня. З доставкою $2.20 за штуку, разом близько $2.2k.</li>
+        <li><strong>Ціна $9.99, не вище.</strong> Вище $10.00 Amazon бере на $0.85 більше, і за $10.99 лишається ті самі $2.78. 69% кліків по одиночних кульках припадає на ціни $8.50-10.00.</li>
+        <li><strong>Розмір у назві та фото в руці.</strong> Лише 3% найкращих новачків пишуть розмір, а "замала" - серед головних скарг на лідера.</li>
+        <li><strong>Реклама до ~$630 на місяць.</strong> При ставці $0.75 продаж з реклами коштує $5.00, а заробляє $2.78.</li>
+        <li><strong>Середина січня: дозамовлення 2 000 шт морем (~$3.4k)</strong>, лише якщо пошук за 4 тижні не падає і щонайменше половина продажів іде без реклами.</li>
+      </ol>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="strip rv">
+    <div class="m"><div class="v g">574 тис.</div><div class="l">пошуків <b>coconut oil squishy</b> на місяць, +19% за 4 тижні. Сир за той самий час: -20%</div></div>
+    <div class="m"><div class="v">$2.78</div><div class="l">лишається з продажі за $9.99 після комісій Amazon і собівартості, до реклами</div></div>
+    <div class="m"><div class="v o">44%+</div><div class="l">продажів мають іти без реклами, щоб вийти в нуль (при 15 покупках зі 100 кліків). При 10 зі 100: 63%</div></div>
+    <div class="m"><div class="v">$4.5k</div><div class="l">найглибший мінус на тесті (грудень). З дозамовленням 2 000 шт: $8.6k у березні. Бюджет $10k</div></div>
+  </div>
+</div>
+
+<section>
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Рішення одним поглядом</div>
+      <h2>Робити і не робити</h2>
+      <p class="lede">Це рівень вердикту з даними POE: всі ключові файли Amazon є. Вердикт обмежений рівнем MARGINAL з трьох причин. Ціна товару взята з оголошень, а не з пропозиції фабрики. Скільки людей купує після кліку, ніхто не вимірював. І невідомо, коли згасне мода.</p>
+    </div>
+    <div class="dd rv">
+      <div class="do">
+        <h4>Робити</h4>
+        <ul>
+          <li>Кулька 6 см (2.4 in) з чесним розміром. Об'єм у 2.7 раза більший, ніж у "м'ячика для гольфу" (~4.3 см), на який скаржаться покупці лідера.</li>
+          <li>Вага в коробці до 8 oz (227 г). Тоді плата FBA (склад, пакування, відправка покупцю) $3.51, а не $3.79.</li>
+          <li>Перша партія літаком, бо морем товар приїде після Різдва. Повторні партії морем: собівартість $1.71 замість $2.20.</li>
+          <li>Правдивий склад у назві: "maltose gel" або "petroleum jelly filled". 39 скарг лідера - на те, що всередині не кокосова олія.</li>
+          <li>Окрема коробочка, а не пакет. Скарги на розірвану упаковку є, а повернень у ніші лише 0.23%.</li>
+        </ul>
+      </div>
+      <div class="dont">
+        <h4>Не робити</h4>
+        <ul>
+          <li>Не ставити ціну $10.99. Вона лишає ті самі $2.78, що й $9.99, а кліків там у 27 разів менше (2.6% проти 69%).</li>
+          <li>Не брати кульку 7-8 см. Вона важча за 8 oz і дорожча у фабрики, тож лишає $1.74 замість $2.78.</li>
+          <li>Не писати "real coconut oil", якщо його немає, і не вживати Vaseline, NeeDoh, Mochichi в назві та ключових словах.</li>
+          <li>Не замовляти 3 000+ шт одразу. Сир показав, як згасає така мода: -49% від піку за 4 місяці.</li>
+          <li>Не рахувати, що клік обійдеться дешевше за ставку Amazon $0.75. На інших акаунтах фактична ціна виходила в 1.5-3.5 раза вищою.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="money">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Економіка однієї штуки</div>
+      <h2>Де гроші і скільки коштує реклама</h2>
+      <p class="lede">Комісії Amazon взяті з його власної оцінки (API Seller Central) для 310 лістингів цієї ніші. Безкоштовно це саме перевіряється в FBA Revenue Calculator у Seller Central на будь-якому ASIN конкурента. Вони складаються з трьох частин: комісія 15% від ціни і плата FBA за обробку замовлення, яка залежить від розміру, ваги та ціни. Третя частина, паливна доплата 3.5%, в оцінці Amazon окремо не показана. Якщо її додають зверху, це ще близько $0.12 на штуку.</p>
+    </div>
+
+    <div class="grid2">
+      <div>
+        <table class="tbl">
+          <thead><tr><th>Ціна $9.99, кулька 6 см, перша партія літаком</th><th class="num">$ за шт</th></tr></thead>
+          <tbody>
+            <tr><td>Комісія Amazon 15%</td><td class="num">$1.50</td></tr>
+            <tr><td>Плата FBA за обробку замовлення (4-8 oz, ціна до $10)</td><td class="num">$3.51</td></tr>
+            <tr><td>Разом Amazon</td><td class="num">$5.01</td></tr>
+            <tr><td>Товар (Ningbo H&amp;W, 6 см, від 1 000 шт)</td><td class="num">$0.95</td></tr>
+            <tr><td>Мито 12.5%</td><td class="num">$0.12</td></tr>
+            <tr><td>Літак до складу, 0.14 кг по $7/кг</td><td class="num">$0.98</td></tr>
+            <tr><td>Коробочка й етикетка (моя оцінка)</td><td class="num">$0.15</td></tr>
+            <tr><td>Собівартість з доставкою</td><td class="num">$2.20</td></tr>
+            <tr class="hi"><td><strong>Лишається до реклами</strong></td><td class="num"><strong>$2.78</strong></td></tr>
+          </tbody>
+        </table>
+        <p class="sm">Морем замість літака доставка коштує $0.49 (0.14 кг по $3.5/кг), собівартість $1.71, лишається $3.27. Мито 12.5% - найсвіжіше джерело на жовтень 2026, інші пишуть 17.5-20%. При 20% собівартість зростає на $0.07.</p>
+      </div>
+      <div>
+        <table class="tbl">
+          <thead><tr><th>Реклама при ставці $0.75</th><th>купують 15 зі 100</th><th>купують 10 зі 100</th></tr></thead>
+          <tbody>
+            <tr><td>Ціна однієї продажі через рекламу</td><td class="num">$5.00</td><td class="num">$7.50</td></tr>
+            <tr><td>Результат цієї продажі</td><td class="num">-$2.22</td><td class="num">-$4.72</td></tr>
+            <tr><td>Середня (blended) реклама на кожну штуку, якщо половина продажів з реклами</td><td class="num">$2.50</td><td class="num">$3.75</td></tr>
+            <tr><td>Тоді лишається зі штуки</td><td class="num">$0.28</td><td class="num">-$0.97</td></tr>
+            <tr class="hi"><td><strong>Мінімальна частка продажів без реклами (organic share)</strong></td><td class="num"><strong>44%</strong></td><td class="num"><strong>63%</strong></td></tr>
+          </tbody>
+        </table>
+        <p class="sm">Клік за $0.75 окупає себе, лише якщо купують 27 зі 100 тих, хто клікнув. Зрілий лістинг на схожій полиці мав 19.9 зі 100, тобто для новачка реклама збиткова. Бізнес працює, тільки коли продажі без реклами переважують. Скільки людей купує після кліку саме тут, ніхто не вимірював, тому я показую поріг, а не прогноз.</p>
+      </div>
+    </div>
+
+    <div class="dial rv" style="margin-top:34px">
+      <h3>Скільки коштує клік?</h3>
+      <p class="sub">Рухайте ціну кліку. Решта зафіксована: ціна $9.99, лишається $2.78, 15 покупок зі 100 кліків. Амазон пропонує $0.75 (від $0.46 до $0.96 для coconut oil squishy). Helium 10 оцінює $0.47; безкоштовно ту саму підказку дає Amazon Campaign Manager. Фактична ціна кліку зазвичай вища за підказку.</p>
+      <input type="range" id="cpcin" min="0.30" max="2.00" step="0.05" value="0.75" aria-label="Ціна одного кліку в доларах">
+      <div class="dialout">
+        <div class="o"><div class="ov" id="o-be">27 зі 100</div><div class="ol">стільки покупок на 100 кліків потрібно, щоб клік окупився</div></div>
+        <div class="o"><div class="ov" id="o-loss">-$2.22</div><div class="ol">результат однієї продажі через рекламу при 15 зі 100</div></div>
+        <div class="o"><div class="ov" id="o-org">44%</div><div class="ol">мінімум продажів без реклами, щоб вийти в нуль</div></div>
+      </div>
+      <p class="verdictline" id="o-line">При $0.75 за клік реклама збиткова. До $0.42 вона окупається при 15 зі 100, до $0.56 - лише у зрілого лістингу (20 зі 100).</p>
+    </div>
+
+    <div class="head" style="margin-top:56px">
+      <div class="eyebrow">Поріг ціни</div>
+      <h3>Долар зверху не приносить нічого</h3>
+      <p class="lede">До $10.00 включно Amazon бере меншу плату FBA (тариф Low-Price FBA). Понад $10.00 плата зростає на $0.85, а комісія на $0.15. Виграш від ціни з'являється лише з $11.00, але там майже немає кліків по одиночних кульках.</p>
+    </div>
+    <div class="cliff rv">
+      <div class="lp"><div class="p">$9.99</div><div class="band">низький тариф</div><div class="m">$2.78</div><div class="cap">лишається до реклами. 69% кліків одиночних кульок у межах $8.50-10.00</div></div>
+      <div class="st"><div class="p">$10.99</div><div class="band">звичайний тариф</div><div class="m">$2.78</div><div class="cap">той самий залишок, Amazon забирає $6.01 замість $5.01</div></div>
+      <div class="st"><div class="p">$12.99</div><div class="band">звичайний тариф</div><div class="m">$4.48</div><div class="cap">більше на штуку, але на $10-13 лише 2.6% кліків одиночних кульок</div></div>
+    </div>
+
+    <div class="note n" style="margin-top:26px">
+      <p><strong>Вага теж має поріг.</strong> Тарифи Amazon, вирахувані з 310 лістингів ніші: до 4 oz $3.26, 4-8 oz $3.51, 8-12 oz $3.79 (ціна до $10). Кулька 6 см з мальтозою в коробці важить близько 6.5 oz. Кулька 7 см вийде за 8 oz, і це +$0.28 за штуку назавжди, плюс дорожчий товар і авіадоставка. За тонкістю дешевший "малий" розмір Amazon кулька не пройде (потрібно до 0.75 дюйма), тож 8 oz - єдиний поріг, який варто тримати. Значення "до 4 oz" має тільки крихітна кулька, на яку й скаржаться.</p>
+    </div>
+
+    <div class="acc" style="margin-top:22px">
+      <button class="acc-h" type="button" aria-expanded="false"><span class="acc-t"><strong>Перевірка на лідерах</strong><em>чи модель не каже, що вони в мінусі</em></span><span class="chev"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></span></button>
+      <div class="acc-b"><div><div class="acc-i">
+        <p>Та сама модель для трьох живих конкурентів по $9.99. Я взяв їхню собівартість нижчою за нашу: у них менша кулька, морем, у пакеті. З тарифом 4-8 oz (у Glyrnur і YAUNFY він насправді нижчий, $3.26) виходить так:</p>
+        <table class="tbl">
+          <thead><tr><th>Лістинг</th><th>Продажі на місяць</th><th>Лишається до реклами</th></tr></thead>
+          <tbody>
+            <tr><td>Glyrnur, собівартість ~$1.10, $9.99</td><td>20 000+ (Amazon, "bought in past month")</td><td>$3.88</td></tr>
+            <tr><td>YAUNFY, собівартість ~$1.10, $9.99</td><td>1 000+</td><td>$3.88</td></tr>
+            <tr><td>Zrpot, собівартість ~$1.32, $9.99</td><td>2 000+</td><td>$3.66</td></tr>
+          </tbody>
+        </table>
+        <p>Модель не каже, що лідери в мінусі. Glyrnur при 20 тис. на місяць і №12 у Squeeze Toys продає здебільшого без реклами, а у нас запас на штуку на $1.10 менший через більшу кульку й авіадоставку. Це і є ціна за кращий товар та за встигання на Різдво.</p>
+      </div></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="cash">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Гроші по місяцях</div>
+      <h2>Тест коштує близько $1.4k, з дозамовленням виходить у нуль або плюс</h2>
+      <p class="lede">Скільки продаватиме лістинг, я взяв з даних, а не придумав. Це медіана кульок-новачків, які вже стоять на першій сторінці (оцінка Helium 10 X-Ray). Безкоштовна перевірка: рядок "bought in past month" під назвою кожного товару. Перші 3 місяці 252 шт на місяць (9 лістингів, найкращі 10% (top decile) - 583). У 3-6 місяців 1 265 шт (14 лістингів, найкращі 10% - 1 822). Половина реклами, 15 покупок зі 100. Виплати Amazon приходять із запізненням на місяць.</p>
+    </div>
+    <table class="tbl rv">
+      <thead><tr><th>Що</th><th>Тільки тест 1 000 шт</th><th>Тест + 2 000 шт морем</th></tr></thead>
+      <tbody>
+        <tr><td>Найглибший мінус і коли</td><td>$4.5k, грудень</td><td>$8.6k, березень</td></tr>
+        <tr><td>Коли гроші повертаються</td><td>не повертаються, після розпродажу -$1.4k</td><td>травень, +$0.1k; якщо без реклами 65% продажів, то +$2.4k</td></tr>
+        <tr><td>Лишається зі штуки до реклами при $9.99</td><td>$2.78 (літак)</td><td>$3.27 (море)</td></tr>
+        <tr><td>Підйом ціни</td><td colspan="2">Не плануємо. Понад $10 залишок не росте до $11.00, а кліків там майже немає</td></tr>
+        <tr><td>Скільки грошей потрібно всього</td><td>$3.9-5.3k (тест безпеки коштує $400-1 800)</td><td>$8.0-9.4k</td></tr>
+        <tr><td>Що найбільше тягне</td><td>старт: тест безпеки $1 000, зразки $300, фото $400</td><td>друга партія $3.4k і реклама в березні</td></tr>
+        <tr class="hi"><td><strong>Ваш бюджет проти найглибшого мінусу</strong></td><td><strong>$10k проти $4.5k: запас $5.5k</strong></td><td><strong>$10k проти $8.6k: запас $1.4k</strong></td></tr>
+      </tbody>
+    </table>
+    <p>Якщо coconut згасатиме так само, як сир (-17%, -32%, -40%, -49% за 4 місяці після піку), друга партія розпродується до липня, а не до квітня, і результат той самий: близько нуля. Це означає, що кожна наступна штука при половині продажів через рекламу майже нічого не дає. Гроші приносить тільки частка продажів без реклами, тому план реклами важливіший за об'єм партії.</p>
+    <p>Якщо брати лише тих, хто запустився у квітні-червні, типова кулька (медіана) продає не 252, а близько 44 шт на місяць. Я перерахував це з кліків POE: 0.0486 продажі на клік за 44 лістингами, що є в обох файлах. Тобто 252 і 1 265 - це обсяг за умови, що ви потрапили на першу сторінку. А туди потрапляє меншість: з 348 кульок квітня-червня 1 000+ кліків набрала половина, а 10 000+ - лише 9%.</p>
+
+    <div class="acc">
+      <button class="acc-h" type="button" aria-expanded="false"><span class="acc-t"><strong>Модель по місяцях</strong><em>тест + 2 000 шт морем, попит тримається, половина реклами</em></span><span class="chev"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></span></button>
+      <div class="acc-b"><div><div class="acc-i">
+        <div style="overflow-x:auto"><table class="tbl">
+          <thead><tr><th>Місяць</th><th>Продано, шт</th><th>Реклама</th><th>Виплата Amazon</th><th>Закупівля</th><th>Разом</th></tr></thead>
+          <tbody>
+            <tr><td>Жовтень</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">-1 585</td><td class="num">-1 585</td></tr>
+            <tr><td>Листопад</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">-2 315</td><td class="num">-3 900</td></tr>
+            <tr><td>Грудень</td><td class="num">252</td><td class="num">-630</td><td class="num">0</td><td class="num">0</td><td class="num">-4 530</td></tr>
+            <tr><td>Січень</td><td class="num">252</td><td class="num">-630</td><td class="num">1 255</td><td class="num">-570</td><td class="num">-4 475</td></tr>
+            <tr><td>Лютий</td><td class="num">252</td><td class="num">-630</td><td class="num">1 255</td><td class="num">-2 850</td><td class="num">-6 700</td></tr>
+            <tr class="hi"><td>Березень</td><td class="num">1 265</td><td class="num">-3 162</td><td class="num">1 255</td><td class="num">0</td><td class="num">-8 607</td></tr>
+            <tr><td>Квітень</td><td class="num">979</td><td class="num">-2 448</td><td class="num">6 300</td><td class="num">0</td><td class="num">-4 755</td></tr>
+            <tr><td>Травень</td><td class="num">0</td><td class="num">0</td><td class="num">4 875</td><td class="num">0</td><td class="num">120</td></tr>
+          </tbody>
+        </table></div>
+        <p class="sm">Жовтень: 30% передоплати за товар, зразки, тест безпеки. Листопад: решта за товар, мито, літак, коробочки, фото. Січень і лютий: друга партія 2 000 шт морем по $1.71. Сума в доларах.</p>
+      </div></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="why">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Ринок</div>
+      <h2>Чому за це взагалі варто братися</h2>
+      <p class="lede">Попит великий і ще росте, майже немає брендових запитів, а лідери слабкі. Проти: молода мода, ціна вже впала до $9.99 і всі на ній стоять.</p>
+    </div>
+
+    <div class="chartbox rv">
+      <h4>Пошук coconut oil squishy проти cheese squishy, кожен у % від свого максимуму</h4>
+      <p class="sm">Тижнева оцінка Helium 10 (Cerebro). Безкоштовна заміна: Brand Analytics у Seller Central або графік у POE. Синя лінія: coconut, оранжева: сир.</p>
+      <svg class="spark" viewBox="0 0 700 220" preserveAspectRatio="none" role="img" aria-label="Пошук coconut oil squishy і cheese squishy за тижнями">
+        <line class="gridline" x1="40" y1="190" x2="680" y2="190"/>
+        <line class="gridline" x1="40" y1="110" x2="680" y2="110"/>
+        <line class="gridline" x1="40" y1="30" x2="680" y2="30"/>
+        <text class="tick" x="2" y="194">0%</text><text class="tick" x="2" y="114">50%</text><text class="tick" x="2" y="34">100%</text>
+        <text class="tick" x="120" y="212">лис 25</text><text class="tick" x="222" y="212">січ 26</text><text class="tick" x="371" y="212">кві</text><text class="tick" x="520" y="212">лип</text><text class="tick" x="640" y="212">жов</text>
+        <path class="series" style="stroke:#EA6C34" d="M40.0,189.6 L51.4,189.6 L62.9,189.7 L74.3,189.7 L85.7,189.6 L97.1,189.7 L108.6,189.6 L120.0,189.5 L131.4,189.4 L142.9,189.3 L154.3,189.1 L165.7,188.4 L177.1,188.3 L188.6,187.5 L200.0,186.1 L211.4,187.5 L222.9,188.1 L234.3,187.5 L245.7,187.5 L257.1,185.7 L268.6,184.0 L280.0,182.2 L291.4,175.2 L302.9,137.6 L314.3,83.5 L325.7,82.0 L337.1,77.4 L348.6,79.0 L360.0,74.4 L371.4,72.8 L382.9,65.6 L394.3,63.7 L405.7,65.3 L417.1,20.0 L428.6,57.6 L440.0,58.7 L451.4,55.7 L462.9,57.5 L474.3,59.2 L485.7,60.7 L497.1,68.0 L508.6,56.4 L520.0,99.8 L531.4,85.5 L542.9,93.1 L554.3,92.0 L565.7,99.0 L577.1,104.2 L588.6,106.1 L600.0,104.1 L611.4,104.9 L622.9,105.1 L634.3,108.9 L645.7,113.8 L657.1,122.7 L668.6,123.8 L680.0,125.4"/>
+        <path class="series" d="M40.0,189.9 L51.4,189.9 L62.9,189.9 L74.3,189.9 L85.7,189.9 L97.1,189.9 L108.6,189.9 L120.0,189.9 L131.4,189.9 L142.9,189.9 L154.3,189.9 L165.7,189.9 L177.1,189.9 L188.6,189.9 L200.0,189.9 L211.4,189.9 L222.9,189.9 L234.3,189.9 L245.7,189.9 L257.1,189.9 L268.6,189.8 L280.0,189.6 L291.4,189.6 L302.9,189.5 L314.3,189.2 L325.7,188.6 L337.1,187.7 L348.6,187.6 L360.0,184.9 L371.4,183.0 L382.9,182.2 L394.3,179.0 L405.7,175.9 L417.1,175.2 L428.6,168.8 L440.0,161.1 L451.4,157.2 L462.9,152.4 L474.3,156.7 L485.7,151.9 L497.1,130.8 L508.6,126.7 L520.0,147.9 L531.4,136.0 L542.9,129.8 L554.3,131.0 L565.7,127.8 L577.1,126.4 L588.6,122.3 L600.0,112.8 L611.4,97.6 L622.9,67.7 L634.3,47.3 L645.7,52.7 L657.1,43.9 L668.6,40.7 L680.0,20.0"/>
+        <circle class="dot" cx="680" cy="30" r="4"/>
+        <text class="flag" x="560" y="22">coconut: 574 тис., рекорд</text>
+        <text class="flag" x="560" y="160">сир: -49% від піку</text>
+      </svg>
+    </div>
+    <p>Coconut пішов угору в лютому 2026, з вересня 2025 до січня 2026 було лише ~300 пошуків. Потім чотири місяці росту, полиця в червні-серпні і друга хвиля з кінця серпня. Ріст сповільнюється: +111% за серпень-вересень, +19% за останні 4 тижні. Сир пройшов той самий шлях трохи раніше. Різкий злет у лютому, вершина в березні-червні, з липня спад до -49%. Попередніх років у coconut немає, тож про сезон говорить історія схожих іграшок. У сиру грудневий пошук за 2023-2025 роки зростав у 2, 6 і 11 разів. У Keepa Crayola Globbles продають 2-4 тис. на місяць влітку і 40-50 тис. у листопаді-грудні; це видно і в безкоштовному розширенні Keepa на сторінці товару. Отже, пік припаде на грудень, а в січні буде спад, навіть якщо мода триматиметься.</p>
+
+    <div class="grid2" style="margin-top:30px">
+      <div class="chartbox rv">
+        <h4>Де кліки одиночних кульок, за поточною ціною</h4>
+        <p class="sm">POE ASIN View, coconut-кульки по 1 шт, 50 лістингів з відомою ціною зараз</p>
+        <div class="bars">
+          <div class="brow"><span>до $7</span><i class="bfill" style="width:18%"></i><span>12.6%</span></div>
+          <div class="brow"><span>$7-8.5</span><i class="bfill" style="width:21%"></i><span>14.3%</span></div>
+          <div class="brow peak"><span>$8.5-10</span><i class="bfill" style="width:100%"></i><span>69.3%</span></div>
+          <div class="brow"><span>$10-13</span><i class="bfill" style="width:4%"></i><span>2.6%</span></div>
+          <div class="brow"><span>$13-16</span><i class="bfill" style="width:1%"></i><span>0.6%</span></div>
+          <div class="brow"><span>$16+</span><i class="bfill" style="width:1%"></i><span>0.5%</span></div>
+        </div>
+      </div>
+      <div class="chartbox rv">
+        <h4>Частка запусків, що набрали 1 000+ кліків</h4>
+        <p class="sm">POE ASIN View, усі coconut-лістинги за місяцем запуску. Старші мали більше часу</p>
+        <div class="bars">
+          <div class="brow"><span>бер</span><i class="bfill" style="width:36%"></i><span>22%</span></div>
+          <div class="brow warm"><span>кві</span><i class="bfill" style="width:100%"></i><span>61%</span></div>
+          <div class="brow"><span>тра</span><i class="bfill" style="width:87%"></i><span>53%</span></div>
+          <div class="brow"><span>чер</span><i class="bfill" style="width:66%"></i><span>40%</span></div>
+          <div class="brow"><span>лип</span><i class="bfill" style="width:41%"></i><span>25%</span></div>
+          <div class="brow"><span>сер</span><i class="bfill" style="width:56%"></i><span>34%</span></div>
+          <div class="brow"><span>вер</span><i class="bfill" style="width:7%"></i><span>4%</span></div>
+        </div>
+      </div>
+    </div>
+
+    <p style="margin-top:26px"><strong>Розмір ринку: два числа Amazon розходяться в 4.3 раза.</strong> POE каже, що за 360 днів продано 100-125 тис. штук, тобто ~9 400 на місяць. Але три найбільші лістинги лише зараз мають на сторінці "bought in past month" 20 000+ (Glyrnur), 10 000+ (LAVKUHY) і 10 000+ (Xltznbplas), разом 40 000 на місяць. Ринку 7 місяців, а POE ділить на рік, тому його число - нижня межа. Перша сторінка пошуку разом продає ~97 тис. на місяць (Helium 10 X-Ray; безкоштовно це саме видно в рядку "bought in past month" під кожним товаром). Ключові запити пояснюють лише близько 10% цього, тобто більшість продажів іде з довгого хвоста запитів. Усе, що спирається на обсяг, тому лише попереднє. Усі три найбільші лістинги є у файлі ASIN View.</p>
+    <p><strong>Брендових запитів майже немає.</strong> Серед 20 головних запитів POE лише "mochichi coconut oil squishy" містить бренд: 0.26% пошуку. Покупці не шукають конкретну марку, тож новачок може конкурувати. З пошуку купують 1.63% на головному запиті (це покупки на пошук, а не на клік). Повернень 0.23%.</p>
+    <p><strong>Форма товару.</strong> Серед coconut-лістингів кульки збирають 67.5% кліків, з них одиночні 44.4%, набори 23.0%. Сир 17.8%, масло 8.1%. Через те що кульки нижче 70%, частки за ціною я рахував окремо для кульок. Для всіх coconut-форм разом $8.50-10.00 має 17.4% кліків за середньою ціною POE за 90 днів, але ця ціна застаріла: Glyrnur у квітні-травні коштував від $13.99 до $22.98, а з червня впав до $9.99 (за моєю моделлю йому лишається ~$3.88 до реклами).</p>
+
+    <div class="grid2" style="margin-top:30px">
+      <div class="chartbox rv">
+        <h4>Скарги на Glyrnur (3.0 зірки, 687 відгуків)</h4>
+        <p class="sm">Кількість згадок у відгуках, зі скриншота, який ви надіслали</p>
+        <div class="bars">
+          <div class="brow peak"><span>якість</span><i class="bfill" style="width:100%"></i><span>131</span></div>
+          <div class="brow"><span>міцність</span><i class="bfill" style="width:98%"></i><span>128</span></div>
+          <div class="brow"><span>ціна/цінність</span><i class="bfill" style="width:73%"></i><span>95</span></div>
+          <div class="brow"><span>розмір</span><i class="bfill" style="width:35%"></i><span>46</span></div>
+          <div class="brow"><span>склад</span><i class="bfill" style="width:30%"></i><span>39</span></div>
+        </div>
+      </div>
+      <div>
+        <h3>Слабкі лідери - головна можливість</h3>
+        <p>11 із 46 coconut-лістингів на першій сторінці продають більше за медіану і мають рейтинг нижче 3.95 (медіана), і всі нижче 4.2. Вони тримають 65% продажів першої сторінки. Серед них: Glyrnur (3.0, 20 тис.+ на місяць), YAUNFY (3.4), UPFSHW (3.2), KHXHCWMGSF (3.1), donciety (3.2). Попит доведений, а товар розчаровує. Це найдешевший вхід: не треба перебивати лідера рекламою, достатньо дати те, що він обіцяє.</p>
+        <p>Що саме не так, видно лише по Glyrnur: інших відгуків у мене немає. Причини повернень POE в експорті не дає, вони є лише в розширенні OEI.</p>
+      </div>
+    </div>
+
+    <div class="acc" style="margin-top:26px">
+      <button class="acc-h" type="button" aria-expanded="false"><span class="acc-t"><strong>Що відрізняє успішних новачків від решти</strong><em>кульки квітня-червня, однаковий вік</em></span><span class="chev"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></span></button>
+      <div class="acc-b"><div><div class="acc-i">
+        <p>Порівняв 10% найкращих за кліками (34 лістинги, медіана віку 5 міс) з нижньою половиною (174, медіана 4 міс). Вік порівнянний.</p>
+        <table class="tbl">
+          <thead><tr><th>Ознака</th><th>Найкращі 10%</th><th>Нижня половина</th></tr></thead>
+          <tbody>
+            <tr><td>Середня ціна POE за 90 днів, медіана / середнє</td><td>$11.77 / $14.11</td><td>$10.98 / $13.90</td></tr>
+            <tr><td>Набір з 2+ кульок</td><td>47%</td><td>27%</td></tr>
+            <tr><td>"No rebound" у назві</td><td>29%</td><td>20%</td></tr>
+            <tr><td>"Slow rising" у назві</td><td>62%</td><td>57%</td></tr>
+            <tr><td>Розмір у назві</td><td>3%</td><td>4%</td></tr>
+            <tr class="dim"><td>Відгуки, медіана (це наслідок продажів, а не причина)</td><td>84</td><td>1</td></tr>
+          </tbody>
+        </table>
+        <p>Ціна їх не розрізняє: медіана і середнє майже однакові. Помітна відмінність одна: серед найкращих удвічі частіше трапляються набори. Розмір у назві не пише майже ніхто, ні серед найкращих, ні серед решти. Це не те, що відрізняє переможців, а незайняте місце, яке закриває головну скаргу.</p>
+      </div></div></div>
+    </div>
+
+    <div class="acc">
+      <button class="acc-h" type="button" aria-expanded="false"><span class="acc-t"><strong>Запуски по місяцях</strong><em>скільки новачків нічого не отримали</em></span><span class="chev"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke-width="2.4"><path d="M6 9l6 6 6-6"/></svg></span></button>
+      <div class="acc-b"><div><div class="acc-i">
+        <p>У файлі POE ASIN View 1 000 рядків. Це межа експорту POE, тож список може бути обрізаний (truncated), хоча 76 лістингів у ньому мають нуль кліків, тобто невдахи там є. 920 рядків - coconut. Видалені лістинги з файлу випали, тож частка провалів занижена. Майже всі запущені в березні-вересні 2026: жодному немає 12 місяців, тому кожен рядок має свій вік.</p>
+        <table class="tbl">
+          <thead><tr><th>Запуск</th><th class="num">Вік, міс</th><th class="num">Лістингів</th><th class="num">0 кліків</th><th class="num">1 000+</th><th class="num">10 000+</th></tr></thead>
+          <tbody>
+            <tr><td>березень</td><td class="num">7</td><td class="num">83</td><td class="num">9</td><td class="num">18</td><td class="num">6</td></tr>
+            <tr><td>квітень</td><td class="num">6</td><td class="num">105</td><td class="num">13</td><td class="num">64</td><td class="num">11</td></tr>
+            <tr><td>травень</td><td class="num">5</td><td class="num">147</td><td class="num">4</td><td class="num">78</td><td class="num">22</td></tr>
+            <tr><td>червень</td><td class="num">4</td><td class="num">178</td><td class="num">7</td><td class="num">72</td><td class="num">13</td></tr>
+            <tr><td>липень</td><td class="num">3</td><td class="num">123</td><td class="num">8</td><td class="num">31</td><td class="num">7</td></tr>
+            <tr><td>серпень</td><td class="num">2</td><td class="num">145</td><td class="num">9</td><td class="num">50</td><td class="num">6</td></tr>
+            <tr><td>вересень</td><td class="num">1</td><td class="num">114</td><td class="num">19</td><td class="num">5</td><td class="num">2</td></tr>
+          </tbody>
+        </table>
+        <p>Новачки, що прорвались: Xltznbplas (масло, серпень, $9.99, 91 відгук, 10 тис. на місяць), CCJYFCDM (сир, серпень, $9.99, 49 відгуків, 5 тис.+), KHXHCWMGSF (набір 2 кульок, серпень, $9.99, 54 відгуки, 1 тис.+), Mahbsact (кулька, червень, $9.99, 21 відгук, 2 тис.+). Найсвіжіший з них, Xltznbplas, показує, що навіть у серпні з 91 відгуком можна було вийти на 10 тис. на місяць. Тобто бар'єр з відгуків тут ще низький.</p>
+      </div></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="plays">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Три варіанти</div>
+      <h2>Як можна зіграти</h2>
+    </div>
+    <div class="grid3">
+      <div class="play rec rv">
+        <div class="top"><span class="badge g">Рекомендую</span><h3>Тест літаком до Різдва</h3><p>1 000 шт кульки 6 см, $9.99</p></div>
+        <div class="body"><dl class="spec">
+          <dt>Собівартість</dt><dd>$2.20, лишається $2.78</dd>
+          <dt>Каса</dt><dd>мінус до $4.5k у грудні</dd>
+          <dt>Ризик</dt><dd>тест сам себе не окупить, -$1.4k</dd>
+          <dt>Навіщо</dt><dd>за 6 тижнів показує, скільки продається без реклами, ще до великої партії</dd>
+        </dl></div>
+      </div>
+      <div class="play rv">
+        <div class="top"><h3>Морем, з січня</h3><p>1 000-2 000 шт тієї самої кульки</p></div>
+        <div class="body"><dl class="spec">
+          <dt>Собівартість</dt><dd>$1.71, лишається $3.27</dd>
+          <dt>Поріг кліку</dt><dd>окупається від 23 зі 100</dd>
+          <dt>Ризик</dt><dd>Різдво пропущено, старт на спаді, як у сиру</dd>
+          <dt>Коли</dt><dd>лише якщо січневий пошук тримається</dd>
+        </dl></div>
+      </div>
+      <div class="play rv">
+        <div class="top"><h3>Чекати до січня</h3><p>нічого не замовляти, дивитися графік</p></div>
+        <div class="body"><dl class="spec">
+          <dt>Ціна</dt><dd>$0</dd>
+          <dt>Ризик</dt><dd>якщо мода триматиметься, ви запізнитесь на 2-3 місяці</dd>
+          <dt>Сигнал</dt><dd>4 тижні поспіль спаду пошуку означають NO</dd>
+        </dl></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="alt" id="brief">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Специфікація для фабрики</div>
+      <h2>Що замовляти</h2>
+      <p class="lede">Усе тут з даних цього розбору. Це специфікація, а не котирування: реальну ціну, якість і терміни дасть лише відповідь фабрики та зразки.</p>
+    </div>
+    <div class="grid2">
+      <div>
+        <table class="tbl">
+          <thead><tr><th>Пункт</th><th>Вимога і чому</th></tr></thead>
+          <tbody>
+            <tr><td>Розмір</td><td>Діаметр 6 см (2.4 in), виміряний на готовому товарі. "Розмір" - 46 скарг у лідера, а лише 3% найкращих пишуть розмір</td></tr>
+            <tr><td>Вага</td><td>До 227 г (8 oz) разом з коробкою. Вище - дорожчий тариф Amazon</td></tr>
+            <tr><td>Наповнювач</td><td>Мальтоза або petroleum jelly, обрати за зразками. Без запаху гуми. Склад писати як є: 39 скарг лідера на те, що це "не кокосова олія"</td></tr>
+            <tr><td>Оболонка</td><td>Товща, шов запаяний. "Міцність" - 128 скарг, "лопнула на шві"</td></tr>
+            <tr><td>Упаковка</td><td>Окрема коробочка з наклейкою FNSKU, а не пакет</td></tr>
+            <tr><td>Безпека</td><td>Дитяча іграшка: тест ASTM F963 і CPSIA, сертифікат CPC. Закладено $1 000, діапазон $400-1 800</td></tr>
+            <tr><td>Фото</td><td>Кулька в руці на головному фото, розмір у назві</td></tr>
+          </tbody>
+        </table>
+        <p class="sm">Торгові марки: у 323 назвах конкурентів немає знаків ® чи ™. Але у запитах трапляються назви брендів: Vaseline (Unilever), NeeDoh (Schylling), Mochichi, Squishmallow, Crayola. Їх не використовувати. Це не юридична порада: перед публікацією перевірте з фахівцем.</p>
+      </div>
+      <div>
+        <div class="copybar"><h4>Лист фабриці (Alibaba, через їхній чат)</h4><button class="btn btn-p" type="button" id="copybtn">Скопіювати</button></div>
+<pre class="mail" id="mailtxt">Subject: Quote request: 6 cm coconut-style squishy ball, 1,000 / 2,000 / 5,000 pcs
+
+Hello,
+
+We would like a quote for a squishy stress ball similar to your
+6 cm maltose ball listing.
+
+Specification:
+- Finished diameter 6 cm (2.4 in), measured on the product
+- Filling: please quote two options: (a) maltose gel, (b) petroleum jelly,
+  shapeable, no rebound
+- Thick skin, sealed seam, no rubber smell
+- Total weight with box under 220 g
+- Individual printed box, FNSKU label applied by you
+
+Questions:
+1. Unit price at 1,000 / 2,000 / 5,000 pcs for each filling option
+2. Production lead time after deposit
+3. Do you have ASTM F963 and CPSIA test reports for this item? If not,
+   what would testing cost?
+4. Sample price and shipping time for 2 samples of each filling
+5. Carton size, pcs per carton and carton weight
+6. Can you deliver by air to a US Amazon warehouse before 25 November?
+   Please quote DDP air if possible.
+
+Thank you,
+[Your name]
+[Company]</pre>
+        <div class="note" style="margin-top:14px"><p><strong>Не надсилати фабриці:</strong> ціну продажу, свою межу собівартості, розрахунки комісій, ключові слова, назви та ASIN конкурентів, бюджет і плани обсягів. Фабрика, яка знає вашу ціну, рахує від вашої маржі, а не від своєї собівартості.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="risks">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Що може зробити висновок хибним</div>
+      <h2>Від найважливішого</h2>
+    </div>
+    <table class="tbl">
+      <thead><tr><th>Що</th><th>Як рухає висновок</th><th>Як закрити</th></tr></thead>
+      <tbody>
+        <tr><td>Скільки купують після кліку на рекламу</td><td>При 15 зі 100 треба 44% продажів без реклами, при 10 зі 100 - 63%. Це вирішує, чи є прибуток</td><td>Перші 4-6 тижнів продажів тесту</td></tr>
+        <tr><td>Коли згасне мода</td><td>Якщо пошук почне падати в листопаді, грудневі 252 шт на місяць не вийдуть</td><td>Щотижня дивитися chart.csv у Cerebro або безкоштовно Brand Analytics у Seller Central</td></tr>
+        <tr><td>Ціна товару</td><td>$0.95 - ціна з оголошення. Якщо фабрика назве $1.50, лишиться $2.16 замість $2.78</td><td>Відповідь фабрики на лист вище</td></tr>
+        <tr><td>Фактична ціна кліку</td><td>$0.75 - підказка Amazon. Якщо реально буде $1.10, продаж з реклами при 15 зі 100 втратить $4.55</td><td>Перший тиждень реклами</td></tr>
+        <tr><td>Мито</td><td>12.5% або до 20% (джерела розходяться), +$0.07 на штуку</td><td>Митний брокер або фрейт-форвардер</td></tr>
+      </tbody>
+    </table>
+    <div class="note n" style="margin-top:22px">
+      <p><strong>Що змінилось з попередньої відповіді.</strong> (1) Кулька 6 см замість 7-8 см: залишок на штуку зріс з $1.74 до $2.78, бо легша кулька тримається в тарифі до 8 oz і коштує $0.95, а не $1.50. (2) Раніше я писав, що реальна ціна кліку зазвичай нижча за підказку Amazon. Це було неправильно: на виміряних акаунтах вона виходила вищою, тож $0.75 - нижня межа. (3) Доставка літаком закладена в першу партію, і тому залишок менший, ніж $3.71 у попередньому розрахунку для моря.</p>
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <div class="head">
+      <div class="eyebrow">Джерела і межі</div>
+      <h2>На чому це стоїть</h2>
+    </div>
+    <ul>
+      <li><strong>Amazon POE</strong> (ніша, ASIN View на 1 000 рядків, вкладка Search Terms): продажі ніші, частки кліків за ціною, запуски, повернення, конверсія пошуку. Дані на 10 жовтня 2026.</li>
+      <li><strong>Amazon SP-API</strong>: комісії для 310 лістингів, поточні ціни. Безкоштовна перевірка: FBA Revenue Calculator у Seller Central.</li>
+      <li><strong>Amazon Ads API</strong>: підказки ставок, $0.75 на головний запит. Безкоштовно це саме видно в Campaign Manager при створенні кампанії, без запуску.</li>
+      <li><strong>Keepa</strong>: історія цін і продажів, купони (84 з 222 coconut-лістингів давали купон, зазвичай 5-10%). Безкоштовна заміна: розширення Keepa на сторінці товару і рядок "bought in past month".</li>
+      <li><strong>Helium 10</strong>: X-Ray першої сторінки (продажі за віком лістингу), Cerebro і тижневий графік пошуку. Безкоштовна заміна: рядок "bought in past month" на сторінці товару і Brand Analytics у Seller Central.</li>
+      <li><strong>Ціни фабрик</strong>: оголошення Ningbo H&amp;W на Alibaba, знайдені через пошук, бо сам сайт заблокований у середовищі. Безкоштовно це перевіряється пошуком на Alibaba вручну.</li>
+      <li><strong>Мито і доставка</strong>: середні по відкритих джерелах на жовтень 2026: мито 12.5% (HTS 9503), море $3.5/кг, літак $7/кг.</li>
+    </ul>
+    <p><strong>Чого немає.</strong> Причини повернень (потрібне розширення OEI) і відгуки інших слабких лідерів, крім Glyrnur. Реальна конверсія кліків. Перевірка на другому маркетплейсі не робилась. Продажі та виручка - нижні межі, а не аудит. Комісії - тарифи Amazon США на жовтень 2026; перед запуском перевірте свій ASIN у FBA Revenue Calculator.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p><strong>Коротко для пересилання.</strong> Coconut oil squishy: MARGINAL. Пошук 574 тис. на місяць і ще росте, лідер з 3.0 зірками продає 20 тис. на місяць. Товар: чесна кулька 6 см у коробочці по $9.99. Тест 1 000 шт літаком тримає мінус до $4.5k і найімовірніше коштує ~$1.4k. Прибуток можливий лише з другою партією морем і якщо понад половину продажів іде без реклами. Рішення про другу партію - в середині січня, за графіком пошуку.</p>
+    <p class="sm">Launch Proof · Sophie Society · 16.10.2026 · Посилання на дзвінок і адресу для зауважень не задано.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  document.documentElement.classList.add('js');
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  document.querySelectorAll('.bfill').forEach(function(b){ b.style.setProperty('--w', b.style.width); });
+  var els = document.querySelectorAll('.rv, .bars, .spark');
+  function show(el){
+    el.classList.add('in');
+    if (el.classList.contains('spark')) el.classList.add('go');
+    el.querySelectorAll && el.querySelectorAll('.bfill').forEach(function(b){ b.classList.add('grow'); });
+    if (el.classList.contains('bars')) el.querySelectorAll('.bfill').forEach(function(b){ b.classList.add('grow'); });
+  }
+  if (reduce || !('IntersectionObserver' in window)) { els.forEach(show); }
+  else {
+    var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting){ show(e.target); io.unobserve(e.target); } }); }, {threshold:.15});
+    els.forEach(function(el){ io.observe(el); });
+  }
+  document.querySelectorAll('.acc-h').forEach(function(h){
+    h.addEventListener('click', function(){
+      var a = h.parentNode; var open = a.classList.toggle('open');
+      h.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  });
+  var KEEP = 2.78, CVR = 0.15;
+  var inp = document.getElementById('cpcin');
+  function money(v){ return (v < 0 ? '-$' : '$') + Math.abs(v).toFixed(2); }
+  function render(){
+    var cpc = Number(inp.value);
+    if (!isFinite(cpc) || cpc <= 0) cpc = 0.75;
+    var be = cpc / KEEP * 100;
+    var cac = cpc / CVR;
+    var loss = KEEP - cac;
+    var adMax = Math.min(1, KEEP / cac);
+    var org = Math.max(0, 1 - adMax);
+    document.getElementById('o-be').textContent = be.toFixed(0) + ' зі 100';
+    document.getElementById('o-loss').textContent = money(loss);
+    document.getElementById('o-org').textContent = Math.round(org * 100) + '%';
+    var line;
+    if (cpc <= 0.42) line = 'При ' + money(cpc) + ' за клік реклама окупається вже при 15 покупках зі 100. Межа: $0.42.';
+    else if (cpc <= 0.56) line = 'При ' + money(cpc) + ' за клік реклама окупається лише у зрілого лістингу (20 зі 100). Новачку треба ' + Math.round(org * 100) + '% продажів без реклами.';
+    else line = 'При ' + money(cpc) + ' за клік реклама збиткова: кожна продаж через неї дає ' + money(loss) + '. Щоб вийти в нуль, ' + Math.round(org * 100) + '% продажів мають іти без реклами.';
+    document.getElementById('o-line').textContent = line;
+  }
+  inp.addEventListener('input', render); render();
+  var btn = document.getElementById('copybtn');
+  btn.addEventListener('click', function(){
+    var t = document.getElementById('mailtxt').textContent;
+    function fallback(){ var r = document.createRange(); r.selectNodeContents(document.getElementById('mailtxt')); var s = window.getSelection(); s.removeAllRanges(); s.addRange(r); btn.textContent = 'Виділено: Ctrl+C'; }
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(function(){ btn.textContent = 'Скопійовано'; }, fallback);
+    else fallback();
+  });
+})();
+</script>
+</body>
+</html>
