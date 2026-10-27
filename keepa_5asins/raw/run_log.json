@@ -1,0 +1,47 @@
+[
+ {
+  "asin": "B0FLDL496M",
+  "http": "200",
+  "err": "",
+  "tokensConsumed": 3,
+  "tokensLeft": 297,
+  "products": 1,
+  "error": null
+ },
+ {
+  "asin": "B0C89STMFK",
+  "http": "200",
+  "err": "",
+  "tokensConsumed": 3,
+  "tokensLeft": 294,
+  "products": 1,
+  "error": null
+ },
+ {
+  "asin": "B0C5N81V89",
+  "http": "200",
+  "err": "",
+  "tokensConsumed": 3,
+  "tokensLeft": 291,
+  "products": 1,
+  "error": null
+ },
+ {
+  "asin": "B09L4R5T55",
+  "http": "200",
+  "err": "",
+  "tokensConsumed": 3,
+  "tokensLeft": 288,
+  "products": 1,
+  "error": null
+ },
+ {
+  "asin": "B0F5WMRV48",
+  "http": "200",
+  "err": "",
+  "tokensConsumed": 3,
+  "tokensLeft": 285,
+  "products": 1,
+  "error": null
+ }
+]

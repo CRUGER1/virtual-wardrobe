@@ -1,0 +1,38 @@
+Keepa pull 2026-10-27 | domain=1 (US) | history=1, buybox=1, days=730 (+ rating=1 re-pull for reviews/rating)
+
+B0FLDL496M  Criusia Over the Door Organizer, 6-Shelf Closet Hanging Storage with 13 Mesh Pockets, 55lbs Capacity Behind th
+  listedSince: 2025-10-26 | current price: $31.98 (buy box) | current BSR: 180 | reviews: 807 (rating 4.7) | monthlySold now: 10000
+  coupons: 1 coupon starts in history; latest: 2025-10-27 30% off
+  deals now: none
+  peak months (lowest median BSR): 2026-10 (186), 2026-08 (218), 2026-07 (273)
+  trough months (highest median BSR): 2025-10 (36,207), 2025-11 (3,824), 2025-12 (3,220)
+
+B0C89STMFK  JARLINK Over the Door Organizer for Bedroom, Pantry, Bathroom, 5 Shelf Grey
+  listedSince: 2023-09-10 | current price: $19.97 (buy box) | current BSR: 1970 | reviews: 5386 (rating 4.8) | monthlySold now: 7000
+  coupons: 23 coupon starts in history; latest: 2025-04-08 $2.00 off; 2025-04-22 $2.00 off; 2025-04-27 $2.00 off; 2025-05-11 $2.00 off; 2025-05-19 $2.00 off
+  deals now: LIMITED_TIME_DEAL/Limited time deal
+  peak months (lowest median BSR): 2026-08 (463), 2025-08 (885), 2026-09 (980)
+  trough months (highest median BSR): 2024-11 (5,202), 2025-12 (4,617), 2025-06 (3,672)
+
+B0C5N81V89  HOMELUX THEORY Over the Door Organizer, 6-Tier, 100D Fabric, Ivory 1pc
+  listedSince: 2023-05-18 | current price: $26.99 (buy box) | current BSR: 6529 | reviews: 6075 (rating 4.7) | monthlySold now: 2000
+  coupons: 34 coupon starts in history; latest: 2026-05-02 10% off; 2026-05-07 10% off; 2026-05-27 10% off; 2026-06-23 12% off; 2026-07-07 10% off
+  deals now: none
+  peak months (lowest median BSR): 2025-06 (462), 2025-05 (720), 2024-11 (1,050)
+  trough months (highest median BSR): 2026-06 (7,643), 2026-05 (6,569), 2026-10 (5,668)
+
+B09L4R5T55  ULG 1 Pack Over Door Organizer with 5 Large Pockets 10 Mesh Side Pockets, 44 lbs Weight Capacity Hanging Stora
+  listedSince: 2021-11-05 | current price: $22.99 (buy box) | current BSR: 5026 | reviews: 9085 (rating 4.6) | monthlySold now: 2000
+  coupons: 55 coupon starts in history; latest: 2025-05-19 $6.00 off; 2025-05-19 $6.00 off; 2025-09-11 $4.00 off; 2025-09-15 $2.00 off; 2025-09-18 $5.00 off
+  deals now: PRIME_EXCLUSIVE/Limited Prime deal
+  peak months (lowest median BSR): 2025-07 (530), 2025-08 (689), 2026-01 (779)
+  trough months (highest median BSR): 2026-10 (5,668), 2026-06 (4,663), 2026-09 (4,054)
+
+B0F5WMRV48  Yecaye 5 Tier Over the Door Organizer, Swing-proof Door Organizer Hanging with Clear PVC Windows, Behind the D
+  listedSince: 2025-07-25 | current price: $12.59 (buy box) | current BSR: 1041 | reviews: 933 (rating 4.7) | monthlySold now: 1000
+  coupons: 1 coupon starts in history; latest: 2025-07-29 $5.00 off
+  deals now: LIMITED_TIME_DEAL/Limited time deal
+  peak months (lowest median BSR): 2026-07 (1,231), 2026-08 (1,560), 2026-10 (1,676)
+  trough months (highest median BSR): 2025-07 (498,695), 2025-08 (10,399), 2025-09 (3,982)
+
+Run log: B0FLDL496M ok; B0C89STMFK ok; B0C5N81V89 ok; B09L4R5T55 ok; B0F5WMRV48 ok
