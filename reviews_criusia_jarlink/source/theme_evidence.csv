@@ -1,0 +1,737 @@
+﻿archive_id,family,stars,category,theme,label_uk,severity
+C133,Criusia,2,complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",Середня
+C140,Criusia,1,complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",Середня
+J055,JARLINK,1,complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",Середня
+J059,JARLINK,1,complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",Середня
+J066,JARLINK,1,complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",Середня
+C105,Criusia,4,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+C107,Criusia,4,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+C108,Criusia,4,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+C124,Criusia,3,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+C140,Criusia,1,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J054,JARLINK,1,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J055,JARLINK,1,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J058,JARLINK,1,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J069,JARLINK,1,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J078,JARLINK,3,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J119,JARLINK,3,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J121,JARLINK,3,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J129,JARLINK,4,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J138,JARLINK,4,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J141,JARLINK,4,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J152,JARLINK,4,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+J174,JARLINK,4,complaint,body_structure,"Форма полиць, вставки, шви або тканина",Середня
+C106,Criusia,4,complaint,color_mismatch,Колір відрізняється від очікуваного,Нижча
+C136,Criusia,1,complaint,color_mismatch,Колір відрізняється від очікуваного,Нижча
+C138,Criusia,1,complaint,color_mismatch,Колір відрізняється від очікуваного,Нижча
+C102,Criusia,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C104,Criusia,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C110,Criusia,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C111,Criusia,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C115,Criusia,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C118,Criusia,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C123,Criusia,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C129,Criusia,2,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C131,Criusia,2,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J047,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J048,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J049,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J052,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J053,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J057,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J061,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J063,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J068,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J072,JARLINK,1,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J079,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J082,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J086,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J088,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J096,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J100,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J108,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J115,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J118,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J120,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J121,JARLINK,3,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J123,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J133,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J135,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J139,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J143,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J146,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J148,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J149,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J153,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J155,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J158,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J159,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J166,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J167,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J171,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J176,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J178,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J181,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J186,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J190,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J191,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J202,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J205,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J207,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+J213,JARLINK,4,complaint,door_clearance,"Посадка, зазор і хід дверей",Висока
+C123,Criusia,3,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+C125,Criusia,3,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+C132,Criusia,2,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+C137,Criusia,1,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J065,JARLINK,1,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J070,JARLINK,1,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J084,JARLINK,3,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J093,JARLINK,3,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J096,JARLINK,3,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J098,JARLINK,3,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J101,JARLINK,3,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J131,JARLINK,4,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J149,JARLINK,4,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J153,JARLINK,4,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J167,JARLINK,4,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J197,JARLINK,4,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+J201,JARLINK,4,complaint,door_damage,"Дряпання, пошкодження дверей або рами",Висока
+C135,Criusia,2,complaint,general_quality,Загальна оцінка якості без конкретного дефекту,Нижча
+J075,JARLINK,1,complaint,general_quality,Загальна оцінка якості без конкретного дефекту,Нижча
+J076,JARLINK,1,complaint,general_quality,Загальна оцінка якості без конкретного дефекту,Нижча
+J104,JARLINK,3,complaint,general_quality,Загальна оцінка якості без конкретного дефекту,Нижча
+J160,JARLINK,4,complaint,general_quality,Загальна оцінка якості без конкретного дефекту,Нижча
+J049,JARLINK,1,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J056,JARLINK,1,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J087,JARLINK,3,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J103,JARLINK,3,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J105,JARLINK,3,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J110,JARLINK,3,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J116,JARLINK,3,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J119,JARLINK,3,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J120,JARLINK,3,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J121,JARLINK,3,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J127,JARLINK,4,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+J169,JARLINK,4,complaint,load_doubt,Занепокоєння щодо важких предметів,Середня
+C119,Criusia,4,complaint,missing_hooks,Бракує гачків,Висока
+C121,Criusia,3,complaint,missing_hooks,Бракує гачків,Висока
+C127,Criusia,3,complaint,missing_hooks,Бракує гачків,Висока
+C134,Criusia,2,complaint,missing_hooks,Бракує гачків,Висока
+C139,Criusia,1,complaint,missing_hooks,Бракує гачків,Висока
+J021,JARLINK,4,complaint,missing_hooks,Бракує гачків,Висока
+J062,JARLINK,1,complaint,missing_hooks,Бракує гачків,Висока
+J066,JARLINK,1,complaint,missing_hooks,Бракує гачків,Висока
+J067,JARLINK,1,complaint,missing_hooks,Бракує гачків,Висока
+J071,JARLINK,1,complaint,missing_hooks,Бракує гачків,Висока
+J083,JARLINK,3,complaint,missing_hooks,Бракує гачків,Висока
+J099,JARLINK,3,complaint,missing_hooks,Бракує гачків,Висока
+J145,JARLINK,4,complaint,missing_hooks,Бракує гачків,Висока
+C120,Criusia,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+C126,Criusia,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J078,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J083,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J089,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J090,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J091,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J092,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J094,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J107,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J122,JARLINK,3,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J182,JARLINK,4,complaint,missing_inserts,Бракує вставок або опор для полиць,Середня
+J074,JARLINK,1,complaint,missing_other,Інші відсутні деталі або неповний комплект,Середня
+J109,JARLINK,3,complaint,missing_other,Інші відсутні деталі або неповний комплект,Середня
+J140,JARLINK,4,complaint,missing_other,Інші відсутні деталі або неповний комплект,Середня
+C122,Criusia,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+C123,Criusia,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+C128,Criusia,2,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+C130,Criusia,2,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+C131,Criusia,2,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J049,JARLINK,1,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J052,JARLINK,1,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J056,JARLINK,1,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J059,JARLINK,1,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J060,JARLINK,1,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J063,JARLINK,1,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J064,JARLINK,1,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J072,JARLINK,1,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J083,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J084,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J086,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J087,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J097,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J098,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J103,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J105,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J112,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J114,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J120,JARLINK,3,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J125,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J133,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J143,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J153,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J159,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J167,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J176,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J185,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J187,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J190,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J192,JARLINK,4,complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Висока
+J073,JARLINK,1,complaint,odor,Неприємний запах,Середня
+J077,JARLINK,1,complaint,odor,Неприємний запах,Середня
+J081,JARLINK,3,complaint,odor,Неприємний запах,Середня
+J085,JARLINK,3,complaint,odor,Неприємний запах,Середня
+J102,JARLINK,3,complaint,odor,Неприємний запах,Середня
+J106,JARLINK,3,complaint,odor,Неприємний запах,Середня
+J107,JARLINK,3,complaint,odor,Неприємний запах,Середня
+J130,JARLINK,4,complaint,odor,Неприємний запах,Середня
+J132,JARLINK,4,complaint,odor,Неприємний запах,Середня
+J142,JARLINK,4,complaint,odor,Неприємний запах,Середня
+J165,JARLINK,4,complaint,odor,Неприємний запах,Середня
+J208,JARLINK,4,complaint,odor,Неприємний запах,Середня
+J214,JARLINK,4,complaint,odor,Неприємний запах,Середня
+C113,Criusia,4,complaint,pocket_configuration,Розмір або конфігурація кишень,Середня
+J018,JARLINK,4,complaint,pocket_configuration,Розмір або конфігурація кишень,Середня
+J050,JARLINK,1,complaint,pocket_configuration,Розмір або конфігурація кишень,Середня
+J152,JARLINK,4,complaint,pocket_configuration,Розмір або конфігурація кишень,Середня
+J158,JARLINK,4,complaint,pocket_configuration,Розмір або конфігурація кишень,Середня
+J219,JARLINK,4,complaint,pocket_configuration,Розмір або конфігурація кишень,Середня
+C129,Criusia,2,complaint,service,"Доставка, повернення або підтримка",Нижча
+J047,JARLINK,1,complaint,service,"Доставка, повернення або підтримка",Нижча
+J051,JARLINK,1,complaint,service,"Доставка, повернення або підтримка",Нижча
+J059,JARLINK,1,complaint,service,"Доставка, повернення або підтримка",Нижча
+J061,JARLINK,1,complaint,service,"Доставка, повернення або підтримка",Нижча
+J078,JARLINK,3,complaint,service,"Доставка, повернення або підтримка",Нижча
+J091,JARLINK,3,complaint,service,"Доставка, повернення або підтримка",Нижча
+C106,Criusia,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+C115,Criusia,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+C129,Criusia,2,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J047,JARLINK,1,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J048,JARLINK,1,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J057,JARLINK,1,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J061,JARLINK,1,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J080,JARLINK,3,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J082,JARLINK,3,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J111,JARLINK,3,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J113,JARLINK,3,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J118,JARLINK,3,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J123,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J124,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J128,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J146,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J148,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J153,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J175,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J205,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+J212,JARLINK,4,complaint,size_expectation,Невідповідність очікуваним габаритам,Середня
+C119,Criusia,4,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+C120,Criusia,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+C121,Criusia,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+C126,Criusia,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+C127,Criusia,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+C134,Criusia,2,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+C139,Criusia,1,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J021,JARLINK,4,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J062,JARLINK,1,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J066,JARLINK,1,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J067,JARLINK,1,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J071,JARLINK,1,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J074,JARLINK,1,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J078,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J083,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J089,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J090,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J091,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J092,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J094,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J099,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J107,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J109,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J122,JARLINK,3,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J140,JARLINK,4,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J145,JARLINK,4,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+J182,JARLINK,4,complaint_rollup,any_missing,Будь-яка неповна комплектація,
+C102,Criusia,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C104,Criusia,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C110,Criusia,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C111,Criusia,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C115,Criusia,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C118,Criusia,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C122,Criusia,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C123,Criusia,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C125,Criusia,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C128,Criusia,2,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C129,Criusia,2,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C130,Criusia,2,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C131,Criusia,2,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C132,Criusia,2,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C137,Criusia,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J047,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J048,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J049,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J052,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J053,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J056,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J057,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J059,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J060,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J061,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J063,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J064,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J065,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J068,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J070,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J072,JARLINK,1,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J079,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J082,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J083,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J084,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J086,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J087,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J088,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J093,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J096,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J097,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J098,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J100,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J101,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J103,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J105,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J108,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J112,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J114,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J115,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J118,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J120,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J121,JARLINK,3,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J123,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J125,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J131,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J133,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J135,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J139,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J143,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J146,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J148,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J149,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J153,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J155,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J158,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J159,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J166,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J167,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J171,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J176,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J178,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J181,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J185,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J186,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J187,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J190,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J191,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J192,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J197,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J201,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J202,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J205,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J207,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+J213,JARLINK,4,complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",
+C116,Criusia,4,feature_request,colors,Більше кольорів,
+J141,JARLINK,4,feature_request,colors,Більше кольорів,
+J247,JARLINK,5,feature_request,colors,Більше кольорів,
+J271,JARLINK,5,feature_request,corner_loops,Петлі для додаткових дрібниць,
+C117,Criusia,4,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+C118,Criusia,4,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J049,JARLINK,1,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J052,JARLINK,1,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J087,JARLINK,3,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J096,JARLINK,3,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J132,JARLINK,4,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J133,JARLINK,4,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J181,JARLINK,4,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J192,JARLINK,4,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+J219,JARLINK,4,feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",
+C117,Criusia,4,feature_request,hook_padding,М’які накладки між металом і дверима,
+J132,JARLINK,4,feature_request,hook_padding,М’які накладки між металом і дверима,
+J181,JARLINK,4,feature_request,hook_padding,М’які накладки між металом і дверима,
+J201,JARLINK,4,feature_request,hook_padding,М’які накладки між металом і дверима,
+C113,Criusia,4,feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",
+J124,JARLINK,4,feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",
+J137,JARLINK,4,feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",
+J142,JARLINK,4,feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",
+J158,JARLINK,4,feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",
+J219,JARLINK,4,feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",
+J226,JARLINK,5,feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",
+J121,JARLINK,3,feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",
+J141,JARLINK,4,feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",
+J174,JARLINK,4,feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",
+C001,Criusia,5,positive_signal,access,Видимість і швидкий доступ до речей,
+C003,Criusia,5,positive_signal,access,Видимість і швидкий доступ до речей,
+C029,Criusia,5,positive_signal,access,Видимість і швидкий доступ до речей,
+C033,Criusia,5,positive_signal,access,Видимість і швидкий доступ до речей,
+C053,Criusia,5,positive_signal,access,Видимість і швидкий доступ до речей,
+C068,Criusia,5,positive_signal,access,Видимість і швидкий доступ до речей,
+C082,Criusia,5,positive_signal,access,Видимість і швидкий доступ до речей,
+J032,JARLINK,5,positive_signal,access,Видимість і швидкий доступ до речей,
+J033,JARLINK,5,positive_signal,access,Видимість і швидкий доступ до речей,
+J222,JARLINK,5,positive_signal,access,Видимість і швидкий доступ до речей,
+J225,JARLINK,5,positive_signal,access,Видимість і швидкий доступ до речей,
+J229,JARLINK,5,positive_signal,access,Видимість і швидкий доступ до речей,
+J234,JARLINK,5,positive_signal,access,Видимість і швидкий доступ до речей,
+C001,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C002,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C003,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C004,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C014,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C029,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C032,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C033,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C035,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C039,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C041,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C044,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C046,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C048,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C050,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C051,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C052,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C056,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C057,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C058,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C059,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C063,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C064,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C065,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C066,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C067,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C071,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C073,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C077,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C083,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C087,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C091,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C095,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C097,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C145,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+C147,Criusia,5,positive_signal,capacity,Місткість або глибина кишень,
+J001,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J003,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J004,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J006,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J007,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J008,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J009,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J013,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J015,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J017,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J019,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J026,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J027,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J032,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J036,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J037,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J040,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J041,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J044,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J221,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J223,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J226,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J227,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J228,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J229,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J247,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J248,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J249,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J252,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J267,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J272,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J274,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J279,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+J280,JARLINK,5,positive_signal,capacity,Місткість або глибина кишень,
+C001,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C002,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C003,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C010,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C048,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C070,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C085,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C091,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C096,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C144,Criusia,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+J004,JARLINK,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+J037,JARLINK,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+J038,JARLINK,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+J226,JARLINK,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+J249,JARLINK,5,positive_signal,pockets,Кишені збоку або видимий вміст,
+C004,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C012,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C015,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C022,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C024,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C028,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C029,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C035,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C043,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C048,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C050,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C070,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C071,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C084,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C092,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C093,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C141,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+C148,Criusia,5,positive_signal,setup,Просте встановлення або складання,
+J001,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J008,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J019,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J022,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J028,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J041,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J046,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J239,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J249,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J250,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J251,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J267,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J271,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J275,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+J282,JARLINK,5,positive_signal,setup,Просте встановлення або складання,
+C001,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C002,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C003,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C007,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C009,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C014,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C030,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C036,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C038,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C058,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C070,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C071,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C088,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C094,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C098,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C142,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C146,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C147,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+C148,Criusia,5,positive_signal,space,Економія місця або зберігання без меблів,
+J004,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J023,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J031,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J033,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J222,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J224,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J236,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J247,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J248,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+J273,JARLINK,5,positive_signal,space,Економія місця або зберігання без меблів,
+C001,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C002,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C003,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C006,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C011,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C017,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C026,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C027,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C028,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C034,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C037,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C043,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C045,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C050,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C051,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C052,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C054,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C061,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C062,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C064,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C066,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C067,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C070,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C071,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C073,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C077,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C083,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C084,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C085,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C087,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C089,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C090,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C096,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C097,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C144,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C147,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C148,Criusia,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J001,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J004,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J006,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J007,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J008,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J009,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J013,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J015,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J023,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J024,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J027,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J029,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J031,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J032,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J034,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J037,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J040,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J041,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J044,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J046,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J221,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J223,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J224,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J229,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J230,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J240,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J242,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J243,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J245,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J246,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J247,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J249,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J252,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J253,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J254,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J255,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J256,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J263,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J266,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J271,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J273,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J276,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J278,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J279,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+J280,JARLINK,5,positive_signal,sturdy,"Міцність, форма або стабільність",
+C003,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C007,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C013,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C014,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C017,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C018,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C019,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C022,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C029,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C031,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C033,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C035,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C036,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C037,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C039,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C046,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C057,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C061,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C064,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C068,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C069,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C072,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C074,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C075,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C077,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C084,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C085,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C086,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C088,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C091,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C094,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C143,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C145,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C146,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C148,Criusia,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+J014,JARLINK,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+J020,JARLINK,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+J226,JARLINK,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+J245,JARLINK,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+J261,JARLINK,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+J279,JARLINK,5,use_case,baby,"Дитяча, підгузки й догляд за дитиною",
+C005,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C028,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C040,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C041,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C067,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C077,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C081,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C085,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C097,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C142,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C143,Criusia,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J002,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J004,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J007,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J015,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J022,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J027,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J032,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J033,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J041,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J044,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J045,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J046,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J221,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J222,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J224,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J226,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J227,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J234,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J244,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J250,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J252,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+J275,JARLINK,5,use_case,bath,"Ванна, туалетні або косметичні засоби",
+C001,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C009,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C010,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C016,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C019,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C027,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C032,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C036,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C038,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C053,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C067,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C077,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C081,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C087,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C092,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C096,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C097,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C098,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C145,Criusia,5,use_case,closet,Шафа або комора для білизни,
+C146,Criusia,5,use_case,closet,Шафа або комора для білизни,
+J006,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J014,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J015,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J025,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J031,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J041,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J044,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J046,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J221,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J223,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J224,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J229,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J237,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J248,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J249,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J257,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J260,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J261,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J272,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J276,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+J279,JARLINK,5,use_case,closet,Шафа або комора для білизни,
+C041,Criusia,5,use_case,dorm,Гуртожиток,
+C063,Criusia,5,use_case,dorm,Гуртожиток,
+J010,JARLINK,5,use_case,dorm,Гуртожиток,
+J012,JARLINK,5,use_case,dorm,Гуртожиток,
+J026,JARLINK,5,use_case,dorm,Гуртожиток,
+J280,JARLINK,5,use_case,dorm,Гуртожиток,
+J283,JARLINK,5,use_case,dorm,Гуртожиток,
+C005,Criusia,5,use_case,pantry,Кухня або продуктова комора,
+J007,JARLINK,5,use_case,pantry,Кухня або продуктова комора,
+J030,JARLINK,5,use_case,pantry,Кухня або продуктова комора,
+J035,JARLINK,5,use_case,pantry,Кухня або продуктова комора,
+J041,JARLINK,5,use_case,pantry,Кухня або продуктова комора,
+J255,JARLINK,5,use_case,pantry,Кухня або продуктова комора,
+J271,JARLINK,5,use_case,pantry,Кухня або продуктова комора,

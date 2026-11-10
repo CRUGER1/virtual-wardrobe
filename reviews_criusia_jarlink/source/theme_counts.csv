@@ -1,0 +1,127 @@
+﻿category,theme,label_uk,family,stars_group,reviews_with_theme,reviews_in_group,sample_pct
+complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",Criusia,1–3,2,21,9.52
+complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",Criusia,4,0,20,0.0
+complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",JARLINK,1–3,3,76,3.95
+complaint,arrival_condition,"Пошкодження, волога або бруд при отриманні",JARLINK,4,0,100,0.0
+complaint,body_structure,"Форма полиць, вставки, шви або тканина",Criusia,1–3,2,21,9.52
+complaint,body_structure,"Форма полиць, вставки, шви або тканина",Criusia,4,3,20,15.0
+complaint,body_structure,"Форма полиць, вставки, шви або тканина",JARLINK,1–3,7,76,9.21
+complaint,body_structure,"Форма полиць, вставки, шви або тканина",JARLINK,4,5,100,5.0
+complaint,color_mismatch,Колір відрізняється від очікуваного,Criusia,1–3,2,21,9.52
+complaint,color_mismatch,Колір відрізняється від очікуваного,Criusia,4,1,20,5.0
+complaint,color_mismatch,Колір відрізняється від очікуваного,JARLINK,1–3,0,76,0.0
+complaint,color_mismatch,Колір відрізняється від очікуваного,JARLINK,4,0,100,0.0
+complaint,door_clearance,"Посадка, зазор і хід дверей",Criusia,1–3,3,21,14.29
+complaint,door_clearance,"Посадка, зазор і хід дверей",Criusia,4,6,20,30.0
+complaint,door_clearance,"Посадка, зазор і хід дверей",JARLINK,1–3,21,76,27.63
+complaint,door_clearance,"Посадка, зазор і хід дверей",JARLINK,4,25,100,25.0
+complaint,door_damage,"Дряпання, пошкодження дверей або рами",Criusia,1–3,4,21,19.05
+complaint,door_damage,"Дряпання, пошкодження дверей або рами",Criusia,4,0,20,0.0
+complaint,door_damage,"Дряпання, пошкодження дверей або рами",JARLINK,1–3,7,76,9.21
+complaint,door_damage,"Дряпання, пошкодження дверей або рами",JARLINK,4,6,100,6.0
+complaint,general_quality,Загальна оцінка якості без конкретного дефекту,Criusia,1–3,1,21,4.76
+complaint,general_quality,Загальна оцінка якості без конкретного дефекту,Criusia,4,0,20,0.0
+complaint,general_quality,Загальна оцінка якості без конкретного дефекту,JARLINK,1–3,3,76,3.95
+complaint,general_quality,Загальна оцінка якості без конкретного дефекту,JARLINK,4,1,100,1.0
+complaint,load_doubt,Занепокоєння щодо важких предметів,Criusia,1–3,0,21,0.0
+complaint,load_doubt,Занепокоєння щодо важких предметів,Criusia,4,0,20,0.0
+complaint,load_doubt,Занепокоєння щодо важких предметів,JARLINK,1–3,10,76,13.16
+complaint,load_doubt,Занепокоєння щодо важких предметів,JARLINK,4,2,100,2.0
+complaint,missing_hooks,Бракує гачків,Criusia,1–3,4,21,19.05
+complaint,missing_hooks,Бракує гачків,Criusia,4,1,20,5.0
+complaint,missing_hooks,Бракує гачків,JARLINK,1–3,6,76,7.89
+complaint,missing_hooks,Бракує гачків,JARLINK,4,2,100,2.0
+complaint,missing_inserts,Бракує вставок або опор для полиць,Criusia,1–3,2,21,9.52
+complaint,missing_inserts,Бракує вставок або опор для полиць,Criusia,4,0,20,0.0
+complaint,missing_inserts,Бракує вставок або опор для полиць,JARLINK,1–3,9,76,11.84
+complaint,missing_inserts,Бракує вставок або опор для полиць,JARLINK,4,1,100,1.0
+complaint,missing_other,Інші відсутні деталі або неповний комплект,Criusia,1–3,0,21,0.0
+complaint,missing_other,Інші відсутні деталі або неповний комплект,Criusia,4,0,20,0.0
+complaint,missing_other,Інші відсутні деталі або неповний комплект,JARLINK,1–3,2,76,2.63
+complaint,missing_other,Інші відсутні деталі або неповний комплект,JARLINK,4,1,100,1.0
+complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Criusia,1–3,5,21,23.81
+complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",Criusia,4,0,20,0.0
+complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",JARLINK,1–3,19,76,25.0
+complaint,mount_stability,"Гачки, петлі або підвіс деформуються чи зміщуються",JARLINK,4,11,100,11.0
+complaint,odor,Неприємний запах,Criusia,1–3,0,21,0.0
+complaint,odor,Неприємний запах,Criusia,4,0,20,0.0
+complaint,odor,Неприємний запах,JARLINK,1–3,7,76,9.21
+complaint,odor,Неприємний запах,JARLINK,4,6,100,6.0
+complaint,pocket_configuration,Розмір або конфігурація кишень,Criusia,1–3,0,21,0.0
+complaint,pocket_configuration,Розмір або конфігурація кишень,Criusia,4,1,20,5.0
+complaint,pocket_configuration,Розмір або конфігурація кишень,JARLINK,1–3,1,76,1.32
+complaint,pocket_configuration,Розмір або конфігурація кишень,JARLINK,4,4,100,4.0
+complaint,service,"Доставка, повернення або підтримка",Criusia,1–3,1,21,4.76
+complaint,service,"Доставка, повернення або підтримка",Criusia,4,0,20,0.0
+complaint,service,"Доставка, повернення або підтримка",JARLINK,1–3,6,76,7.89
+complaint,service,"Доставка, повернення або підтримка",JARLINK,4,0,100,0.0
+complaint,size_expectation,Невідповідність очікуваним габаритам,Criusia,1–3,1,21,4.76
+complaint,size_expectation,Невідповідність очікуваним габаритам,Criusia,4,2,20,10.0
+complaint,size_expectation,Невідповідність очікуваним габаритам,JARLINK,1–3,9,76,11.84
+complaint,size_expectation,Невідповідність очікуваним габаритам,JARLINK,4,9,100,9.0
+complaint_rollup,any_missing,Будь-яка неповна комплектація,Criusia,1–3,6,21,28.57
+complaint_rollup,any_missing,Будь-яка неповна комплектація,Criusia,4,1,20,5.0
+complaint_rollup,any_missing,Будь-яка неповна комплектація,JARLINK,1–3,16,76,21.05
+complaint_rollup,any_missing,Будь-яка неповна комплектація,JARLINK,4,4,100,4.0
+complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",Criusia,1–3,9,21,42.86
+complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",Criusia,4,6,20,30.0
+complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",JARLINK,1–3,38,76,50.0
+complaint_rollup,any_mounting,"Будь-яка проблема з посадкою, підвісом або пошкодженням дверей",JARLINK,4,32,100,32.0
+feature_request,colors,Більше кольорів,Criusia,1–3,0,21,0.0
+feature_request,colors,Більше кольорів,Criusia,4,1,20,5.0
+feature_request,colors,Більше кольорів,Criusia,5,0,107,0.0
+feature_request,colors,Більше кольорів,JARLINK,1–3,0,76,0.0
+feature_request,colors,Більше кольорів,JARLINK,4,1,100,1.0
+feature_request,colors,Більше кольорів,JARLINK,5,1,107,0.93
+feature_request,corner_loops,Петлі для додаткових дрібниць,Criusia,1–3,0,21,0.0
+feature_request,corner_loops,Петлі для додаткових дрібниць,Criusia,4,0,20,0.0
+feature_request,corner_loops,Петлі для додаткових дрібниць,Criusia,5,0,107,0.0
+feature_request,corner_loops,Петлі для додаткових дрібниць,JARLINK,1–3,0,76,0.0
+feature_request,corner_loops,Петлі для додаткових дрібниць,JARLINK,4,0,100,0.0
+feature_request,corner_loops,Петлі для додаткових дрібниць,JARLINK,5,1,107,0.93
+feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",Criusia,1–3,0,21,0.0
+feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",Criusia,4,2,20,10.0
+feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",Criusia,5,0,107,0.0
+feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",JARLINK,1–3,4,76,5.26
+feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",JARLINK,4,5,100,5.0
+feature_request,hook_options,"Тонші або міцніші гачки, варіанти під різні двері",JARLINK,5,0,107,0.0
+feature_request,hook_padding,М’які накладки між металом і дверима,Criusia,1–3,0,21,0.0
+feature_request,hook_padding,М’які накладки між металом і дверима,Criusia,4,1,20,5.0
+feature_request,hook_padding,М’які накладки між металом і дверима,Criusia,5,0,107,0.0
+feature_request,hook_padding,М’які накладки між металом і дверима,JARLINK,1–3,0,76,0.0
+feature_request,hook_padding,М’які накладки між металом і дверима,JARLINK,4,3,100,3.0
+feature_request,hook_padding,М’які накладки між металом і дверима,JARLINK,5,0,107,0.0
+feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",Criusia,1–3,0,21,0.0
+feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",Criusia,4,1,20,5.0
+feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",Criusia,5,0,107,0.0
+feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",JARLINK,1–3,0,76,0.0
+feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",JARLINK,4,5,100,5.0
+feature_request,pocket_options,"Глибші або різнорозмірні кишені, кишені з обох боків",JARLINK,5,1,107,0.93
+feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",Criusia,1–3,0,21,0.0
+feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",Criusia,4,0,20,0.0
+feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",Criusia,5,0,107,0.0
+feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",JARLINK,1–3,1,76,1.32
+feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",JARLINK,4,2,100,2.0
+feature_request,washable_inserts,"Жорсткі, знімні або мийні вставки",JARLINK,5,0,107,0.0
+positive_signal,access,Видимість і швидкий доступ до речей,Criusia,5,7,107,6.54
+positive_signal,access,Видимість і швидкий доступ до речей,JARLINK,5,6,107,5.61
+positive_signal,capacity,Місткість або глибина кишень,Criusia,5,36,107,33.64
+positive_signal,capacity,Місткість або глибина кишень,JARLINK,5,34,107,31.78
+positive_signal,pockets,Кишені збоку або видимий вміст,Criusia,5,10,107,9.35
+positive_signal,pockets,Кишені збоку або видимий вміст,JARLINK,5,5,107,4.67
+positive_signal,setup,Просте встановлення або складання,Criusia,5,18,107,16.82
+positive_signal,setup,Просте встановлення або складання,JARLINK,5,15,107,14.02
+positive_signal,space,Економія місця або зберігання без меблів,Criusia,5,19,107,17.76
+positive_signal,space,Економія місця або зберігання без меблів,JARLINK,5,10,107,9.35
+positive_signal,sturdy,"Міцність, форма або стабільність",Criusia,5,37,107,34.58
+positive_signal,sturdy,"Міцність, форма або стабільність",JARLINK,5,45,107,42.06
+use_case,baby,"Дитяча, підгузки й догляд за дитиною",Criusia,5,35,107,32.71
+use_case,baby,"Дитяча, підгузки й догляд за дитиною",JARLINK,5,6,107,5.61
+use_case,bath,"Ванна, туалетні або косметичні засоби",Criusia,5,11,107,10.28
+use_case,bath,"Ванна, туалетні або косметичні засоби",JARLINK,5,22,107,20.56
+use_case,closet,Шафа або комора для білизни,Criusia,5,20,107,18.69
+use_case,closet,Шафа або комора для білизни,JARLINK,5,21,107,19.63
+use_case,dorm,Гуртожиток,Criusia,5,2,107,1.87
+use_case,dorm,Гуртожиток,JARLINK,5,5,107,4.67
+use_case,pantry,Кухня або продуктова комора,Criusia,5,1,107,0.93
+use_case,pantry,Кухня або продуктова комора,JARLINK,5,6,107,5.61
